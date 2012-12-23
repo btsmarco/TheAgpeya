@@ -1,0 +1,1 @@
+This is a Windows Phone application. It is a prayer book, for the Coptic Orthodox Church. It is used different times a day. Please contact us if you have any questions
