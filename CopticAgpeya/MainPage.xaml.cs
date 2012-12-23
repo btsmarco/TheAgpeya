@@ -66,7 +66,7 @@ namespace CopticAgpeya
 
         private void Midnight_Click(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("/Midnight.xaml", UriKind.Relative));
+            NavigationService.Navigate(new Uri("/English/Midnight.xaml", UriKind.Relative));
         }
 
         private void Other_Click(object sender, RoutedEventArgs e)
@@ -77,6 +77,11 @@ namespace CopticAgpeya
         private void Intro_Click(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new Uri("/English/Intro.xaml", UriKind.Relative));
+        }
+
+        private void Veil_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/English/Veil.xaml", UriKind.Relative));
         }
     }
 }

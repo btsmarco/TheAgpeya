@@ -17,10 +17,148 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Pivot Control-->
-        <controls:Pivot Title="MY APPLICATION">
+        <controls:Pivot Title="COPTIC AGPEYA">
             <!--Pivot item one-->
-            <controls:PivotItem Header="item1">
-                <Grid/>
+            <controls:PivotItem Header="Psalms">
+                <Grid x:Name="ContentPane2" Grid.Row="1" Margin="12,0,0,0">
+                    <ScrollViewer>
+                        <StackPanel Margin="12,0,0,0">
+
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            The sunset prayer of the blessed day, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+
+                            From the Psalms of our father David the prophet and the king, may his blessings be upon us all. Amen.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 116 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Praise the Lord, all you nations: let all the peoples praise Him. For His mercy has been established upon us, and the truth of the Lord endures forever. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 117 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Give thanks to the Lord; for He is good: for His mercy endures forever. Let now the house of Israel say that He is good: for His mercy endures forever. Let the house of Aaron say that He is good: for His mercy endures forever. Let now all who fear the Lord say that He is good: for His mercy endures forever.
+
+                            I called on the Lord in my affliction: and He answered me, and brought me into a broad place. The Lord is my helper; and I shall not fear what man will do to me. The Lord is my helper; and I shall look down upon my own enemies. It is better to trust in the Lord than to trust in man. It is better to hope in the Lord, than to hope in princes.
+
+                            All the nations surrounded me: and in the name of the Lord I drove them away. They surrounded me and went around me: and in the name of the Lord I drove them away. They surrounded me as bees around a honeycomb, and they burst as fire among thorns: and in the name of the Lord I drove them away. I was pushed, that I might fall: but the Lord helped me. My strength and my praise is the Lord, and He has become unto me a salvation.
+
+                            The voice of exultation and salvation is in the dwellings of the righteous: the right hand of the Lord has wrought mightily. The right hand of the Lord has exalted me: the right hand of the Lord has wrought powerfully. I shall not die, but live, and recount the works of the Lord. With chastisement the Lord has chastened me: and has not given me up to death.
+
+                            Open to me the gates of righteousness: that I will go into them, and praise the Lord. This is the gate of the Lord: the righteous shall enter into it. I will praise You, O Lord, because You have answered me, and have become unto me a salvation. The stone which the builders rejected has become the head of the corner. This has been done by the Lord; and it is wonderful in our eyes.
+
+                            This is the day which the Lord has made: let us rejoice and be glad in it. O Lord, save us: O Lord, ease our ways. Blessed is He who comes in the name of the Lord: we have blessed you from the house of the Lord. God the Lord has shined upon us: ordain a feast with those that reach the horns of the altar. You are my God, and I will give thanks to You: You are my God, and I will exalt You. I will give thanks to You, O Lord, for You have heard me, and have become unto me a salvation. Give thanks to the Lord; for He is good: for His mercy endures forever. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 119 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            In my own affliction I cried to You, O Lord, and You heard me. O Lord, You shall deliver my soul from unjust lips, and from a deceitful tongue. What should be given to you, and what should be added to you, a crafty tongue?! The weapons of the mighty are sharpened with coals of the desert! Woe to me, that my sojourning is prolonged; I have lived among the dwellings of Kedar. My soul has long been a sojourner; I was peaceable among those who hated peace; when I spoke to them. they warred against me without a cause. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 120 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            I lifted up my eyes to the mountains, from where my help shall come. My help shall come from the Lord, who made the heaven and the earth. He will not let your foot be moved; and your keeper will not slumber. Behold, He who keeps Israel shall not slumber nor sleep. The Lord shall keep you: the Lord shall cast a shelter upon your right hand. The sun shall not burn you by day, neither the moon by night. The Lord shall preserve you from every evil: the Lord shall keep your soul. The Lord shall keep your coming in and your going out, from this time and forever. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 121 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            I was glad for those who said to me, “We will go into the house of the Lord.” Our feet stood in the courts of Jerusalem, Jerusalem which is built as a city that is closely compacted together. For there the tribes went up, the tribes of the Lord, as a testimony for Israel, confessing the name of the Lord. For there are set thrones for judgement, even thrones for the house of David.
+
+                            Ask for the things which are for the peace of Jerusalem: and for the prosperity to those who love you. Let peace be within your strength, and prosperity in your heavy towers. For the sake of my brothers and my companions, I have indeed spoken peace concerning you. Because of the house of the Lord our God, I have diligently sought good things for you. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 122 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Unto You I have lifted up my eyes, O You who dwell in heaven. Behold as the eyes of servants are unto to the hands of their masters, and as the eyes of a maidservant to the hands of her mistress; so our eyes are toward the Lord our God until He has pity on us. Have mercy on us, O Lord, have mercy on us: for we are exceedingly filled with contempt. And our soul has been exceedingly filled: give the reproach to those who prosper, and contempt to the proud. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 123 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            If it had not been that the Lord is among us, let Israel say; if it had not been that the Lord is among us when men rose up against us, then they would have swallowed us up alive, when their wrath was kindled against us. Then the water would have drowned us. Our soul would have gone under the raging flood; then our soul would have gone under the unlimited water. Blessed be the Lord, who has not given us for a prey to their teeth. Our soul has been delivered as a sparrow from the snare of the hunters. The snare has broken, and we were delivered. Our help is in the name of the Lord, who made heaven and earth. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 124 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Those who trust in the Lord are as Mount Zion: he who dwells in Jerusalem shall never be moved. Mountains are round about her, and the Lord is round about His people, from this time and forever. For the Lord shall not allow the rod of sinners to be upon the lot of the righteous; lest the righteous might stretch forth their hands to iniquity.
+
+                            Do good, O Lord, to those who are good, and to those who are upright in their heart. But those who turn to stumbles, the Lord will banish with the workers of iniquity; peace be upon Israel. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALMS 125 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            When the Lord brought back the captivity of Zion, we became as those who were comforted. Then our mouth was filled with joy, and our tongue with exultation. Then they shall say among the Gentiles, “The Lord has done great things among them.” The Lord has done great things for us, we became joyful. O Lord, You shall bring back our captivity, as the streams in the south. Those who sow in tears shall reap in joy. They went on and wept as they were carrying their seeds; but they shall surely come with exultation, carrying their sheaves. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALMS 126 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Unless the Lord builds the house, those who build it have labored in vain. Unless the Lord guards the city, the watchmen have watched in vain. It is vain for you to rise early: rise up after your sitting, you who eat the bread of grief; while He gives sleep to His beloved.
+
+                            Behold, children are the inheritance of the Lord, the reward of the fruit of the womb. As arrows in the hand of a mighty man, so are the children of one's youth. Blessed is the man who has his quiver full of them; they shall not be ashamed when they speak with their enemies in the gates. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALMS 127 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Blessed are all who fear the Lord; who walk in his ways. You shall eat the fruit of your labors: you shall be blessed, and goodness shall be unto you. Your wife shall be as a fruitful vine on the sides of your house, your children as young olive-plants round about your table. Behold, thus shall the man be blessed, who fears the Lord. The Lord shall bless you out of Zion; and you shall see the good things of Jerusalem all the days of your life. And you shall see the children of your children. Peace be upon Israel. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALMS 128 
+                            </Run>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            Many times they have warred against me from my youth, let Israel now say. Many times they have warred against me from my youth, and yet they have not prevailed against me. The sinners scourged me on my back, and prolonged their iniquity. The Lord is righteous; He has broken the necks of sinners. Let all who hate Zion be put to shame and turned back. Let them be as the grass of the house-tops, which withers before it is plucked up, with which the reaper does not fill his hand, nor he who gathers up sheaves, his bosom. Neither do they who pass by say, “The blessing of the Lord be upon you, we have blessed you in the name of the Lord.” ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+
             </controls:PivotItem>
 
             <!--Pivot item two-->

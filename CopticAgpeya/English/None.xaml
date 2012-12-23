@@ -17,10 +17,151 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Pivot Control-->
-        <controls:Pivot Title="MY APPLICATION">
+        <controls:Pivot Title="COPTIC AGPEYA">
             <!--Pivot item one-->
-            <controls:PivotItem Header="item1">
-                <Grid/>
+            <controls:PivotItem Header="Psalms">
+                <Grid x:Name="ContentPane2" Grid.Row="1" Margin="12,0,0,0">
+                    <ScrollViewer>
+                        <StackPanel Margin="12,0,0,0">
+
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            The prayer of the ninth hour of the blessed day, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
+
+                            From the Psalms of our father David the prophet and the king, may his blessings be upon us all. Amen.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 95 
+                            </Run>
+                            <LineBreak/>
+                            Sing to the Lord a new song; sing to the Lord, all the earth. Sing to the Lord, bless His name: proclaim His salvation day to day. Declare His glory among the Gentiles, and His wonders among all peoples. For the Lord is great, and greatly praised: He is fearful above all the gods. For all the gods of the nations are devils, but the Lord made the heavens. Majesty and splendor are before Him: holiness and great beauty are in His Holy.
+
+                            Bring to the Lord, O the families of the Gentiles, bring to the Lord glory and honor. Bring to the Lord the glory of His name: carry offerings, and go into His court. Worship the Lord in His holy court: let all the earth tremble before His face. Say among the nations, “The Lord reigned on a wood: for He has established the world that it shall not be moved: He will judge the peoples in righteousness.”
+
+                            Let the heavens rejoice, and the earth exult; let the sea be moved: and its fullness. The plains shall rejoice, and all things in them: then all the trees of the forest shall exult before the face of the Lord: for He is coming to judge the earth; He will judge the world in justice, and the peoples with His truth. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 96 
+                            </Run>
+                            <LineBreak/>
+                            The Lord reigns, let the earth exult, let the many islands rejoice. Cloud and darkness are round about Him; righteousness and judgement are the uprightness of His throne. Fire shall precede Him, and with a flame shall burn up His enemies who surround Him. His lightings lightened the world; the earth saw, and trembled. The mountains melted like wax before the face of the Lord, before the face of the Lord of the whole earth. The heavens have declared His righteousness, and all the peoples have seen His glory.
+
+                            All those who worship graven images and boast in their idols shall be ashamed. Worship Him all you His angels.
+
+                            Zion heard and rejoiced; and the daughters of Judea exulted, because of Your judgements, O Lord. For You are Lord most high over all the earth; You are greatly exalted above all the gods.
+
+                            You who love the Lord, hate evil; the Lord preserves the souls of His saints; He will deliver them from the hands of the sinners. Light has shined for the righteous, and gladness for the upright in their heart. Rejoice in the Lord, you righteous; and praise the remembrance of His holiness. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 97 
+                            </Run>
+                            <LineBreak/>
+                            Sing to the Lord a new song; for the Lord has wrought wonderful works, His right hand and His holy arm, have wrought life for Him. The Lord has made known His salvation; before the nations He has revealed his righteousness. He has remembered His mercy to Jacob, and His truth to the house of Israel; the ends of all the earth have seen the salvation of our God.
+
+                            Shout to the Lord, all the earth; sing and exult, and sing psalms. Sing to the Lord with a harp, with a harp and a voice of psalm, with directed trumpets, and a sound of a trumpet of horn. Shout joyfully before the Lord King. Let the sea be moved, and its fullness, the world and all who dwell in it. The rivers shall clap their hands together; and the mountains shall exult before the Lord. For He comes to judge the earth: He will judge the world with righteousness, and the nations with uprightness. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 98 
+                            </Run>
+                            <LineBreak/>
+                            The Lord reigned; let the people rage; He who sits upon the cherubim, let the earth be shaken. The Lord is great in Zion, and is high over all peoples. Let them confess His great name; for it is fearful and holy, and the King's honor loves the judgement. You have prepared uprightness, You have made judgement and justice in Jacob. Exalt the Lord our God, and worship at His footstool; for He is holy.
+
+                            Moses and Aaron among His priests, and Samuel among those who call upon His name; they called upon the Lord, and He heard them. He spoke to them in a pillar of cloud; for they kept His testimonies and the ordinances which He gave them. O Lord our God, You answered them; O God, You became for them a forgiver and an avenger over all their deeds. Exalt you the Lord our God, and worship at His holy mountain; for the Lord our God is holy. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 99 
+                            </Run>
+                            <LineBreak/>
+                            Shout joyfully to the Lord, all the earth. Serve the Lord with gladness; come into His presence with exultation. Know that the Lord Himself is our God; He made us, and not we ourselves; we are His people, and the sheep of His pasture. Enter into His gates with thanksgiving, and His courts with praise; give thanks to Him, praise His name. For the Lord is good, His mercy is forever; and His truth is from generation to generation. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 100 
+                            </Run>
+                            <LineBreak/>
+                            I will sing of mercy and judgement, to You, O Lord; I will sing a psalm, and I will have understanding in a blameless way. When will You come to me? I walked in the innocence of my heart, in the midst of my house. I have not set before my eyes any unlawful thing; I have hated transgressors. A perverse heart has not cleaved to me; I have not known the evil one, forasmuch as he turns away from me. He who secretly speaks against his neighbor, him I have driven from me: he who is proud in his eyes and haughty in heart, with him I have not eaten.
+
+                            My eyes were upon all the faithful of the land, that they might sit with me: he who walked in a blameless way, he ministered to me. The proud doer did not dwell in the midst of my house; the unjust speaker did not prosper before my eyes. In the morning I slew all the sinners of the land, that I might wipe out from the city of the Lord all who work iniquity. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 109 
+                            </Run>
+                            <LineBreak/>
+                            The Lord said to my Lord, “Sit on My right hand, until I place Your enemies under Your feet.” A rod of power, the Lord shall send out for You out of Zion: and You shall rule in the midst of Your enemies. With You is dominion in the day of Your power, in the splendor of the saints. From the womb before the morning star I have begotten You.
+
+                            The Lord has sworn and shall not repent: “You are the Priest forever, after the order of Melchizedek.” The Lord is at Your right hand; He dashed kings in the day of His wrath. He shall judge among the nations. He shall fill them with dead bodies, He shall crush the heads of many on the earth. He shall drink of the brook in the way; therefore He shall lift up the head. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 110 
+                            </Run>
+                            <LineBreak/>
+                            I will confess You, O Lord, with my whole heart, in the council of the upright, and in their congregation. Great are the works of the Lord, examined are all His wills. Majesty and splendor are His works: and His righteousness endures forever and ever. He has made a remembrance of all His wonders: the Lord is merciful and compassionate. He has given food to those who fear Him: He shall remember His covenant forever. He has declared to His people the power of His works, to give them the inheritance of nations.
+
+                            The works of His hands are truth and justice: all His commandments are faithful: established forever and ever, made in truth and uprightness. He sent redemption to His people: He commanded His covenant forever: holy and fearful is His name. The fear of the Lord is the beginning of wisdom, and understanding is good to all who do according to it. His praise endures forever and ever. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 111 
+                            </Run>
+                            <LineBreak/>
+                            Blessed is the man who fears the Lord, and delights greatly in His commandments. His seed shall be mighty in the earth: the generation of the upright shall be blessed. Glory and riches shall be in His house; and His righteousness endures forever. To the upright, light has sprung up in the darkness. The Lord God is compassionate, merciful, and righteous.
+
+                            A good man is he who pities and lends: he shall direct his words with truth. For he shall not be moved forever. The righteous shall be in everlasting remembrance. He shall not be afraid of any evil tidings: his heart is ready trusting the Lord. His heart is established, he shall not move, till he shall look upon his enemies. He has dispersed abroad; he has given to the poor; his righteousness endures forever and ever: his horn shall be exalted with honor. The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 112 
+                            </Run>
+                            <LineBreak/>
+                            Praise the Lord, O the servants, praise the name of the Lord. Let the name of the Lord be blessed, from now and forever. From the risings of the sun to its settings, praise the name of the Lord. The Lord is high above all the nations; upon the heavens is His glory.
+
+                            Who is like the Lord our God? Who dwells in the high places, and looks upon the low things in heaven and on the earth: who lifts up a poor person from the earth, and raises up a needy person from the ash heap; to seat him with the princes, even with the princes of his people: who makes a barren woman in a house, rejoicing as a mother of children. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 114 
+                            </Run>
+                            <LineBreak/>
+                            I loved, because the Lord will hear the voice of my supplication. Because He has inclined His ear to me, I will call upon Him in all my days. The pains of death grasped me; the dangers of Hades have found me: I found affliction and sorrow. Then I called on the name of the Lord: “O Lord, deliver my soul.”
+
+                            The Lord is merciful and righteous; and our God has mercy. The Lord preserves the infants: I was brought low, and He saved me.
+
+                            Return to your resting place, O my soul, for the Lord has dealt bountifully with you. He has delivered my soul from death, my eyes from tears, and my feet from falling. I shall please the Lord in the land of the living. ALLELUIA.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            PSALM 115 
+                            </Run>
+                            <LineBreak/>
+                            I believed, therefore, I have spoken: I was exceedingly humbled. I said in my amazement, “Every man is a liar.” What shall I render to the Lord for everything which He has done unto me? I shall take the cup of salvation, and call upon the name of the Lord. I will pay my vows to the Lord, in the presence of all His people.
+
+                            Precious in the sight of the Lord is the death of His saints. O Lord, I am Your servant; I am Your servant, and the son of Your handmaid: You have broken my bonds. I will sacrifice to You the sacrifice of praise, and will call upon the name of the Lord. I will pay my vows to the Lord in the presence of all His people, in the courts of the Lord's house, in the midst of Jerusalem. ALLELUIA.
+
+                            <LineBreak/>
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+
             </controls:PivotItem>
 
             <!--Pivot item two-->

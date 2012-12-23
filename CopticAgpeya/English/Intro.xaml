@@ -17,15 +17,92 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Pivot Control-->
-        <controls:Pivot Title="MY APPLICATION">
+        <controls:Pivot Title="COPTIC AGPEYA">
             <!--Pivot item one-->
-            <controls:PivotItem Header="item1">
-                <Grid/>
+            <controls:PivotItem Header="intro">
+                <!--ContentPanel - place additional content here-->
+                <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+                    <ScrollViewer>
+                        <StackPanel >
+                            <TextBlock Foreground="White" Margin="12,0,0,0" Width="Auto" Height="Auto" TextWrapping="Wrap">
+					         <Run Foreground="{StaticResource PhoneAccentBrush}">
+						        INTRODUCTION TO EVERY HOUR
+					        </Run>
+					        <LineBreak/>
+
+					        In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.
+
+					        Kyrie eleison. Lord have mercy, Lord have mercy, Lord bless us. Amen.
+
+					        Glory to the Father, and to the Son, and to the Holy Spirit, now and forever and unto the ages of all ages. Amen.
+					        <LineBreak/>
+                            <LineBreak/>
+					        <Run Foreground="{StaticResource PhoneAccentBrush}">
+						        THE LORD'S PRAYER 
+					        </Run>
+					        <LineBreak/>
+						        Make us worthy to pray thankfully:
+
+						        Our Father Who art in heaven; hallowed be Thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread.  And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil, in Christ Jesus our Lord. For Thine is the kingdom, the power and the glory, forever. Amen.
+					        <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                        
+					        <Run Foreground="{StaticResource PhoneAccentBrush}">
+ 						        THE PRAYER OF THANKSGIVING 
+					        </Run>
+					        <LineBreak/>
+					        Let us give thanks to the beneficent and merciful God, the Father of our Lord, God and Savior, Jesus Christ, for He has covered us, helped us, guarded us, accepted us unto Him, spared us, supported us, and brought us to this hour. Let us also ask Him, the Lord our God, the Almighty, to guard us in all peace this holy day and all the days of our life.
+
+					        O Master, Lord, God the Almighty, the Father of our Lord, God and Savior, Jesus Christ, we thank You for every condition, concerning every condition, and in every condition, for You have covered us, helped us, guarded us, accepted us unto You, spared us, supported us, and brought us to this hour.
+
+					        Therefore, we ask and entreat Your goodness, O Lover of mankind, to grant us to complete this holy day, and all the days of our life, in all peace with Your fear. All envy, all temptation, all the work of Satan, the counsel of wicked men, and the rising up of enemies, hidden and manifest, take them away from us, and from all Your people, and from this holy place that is Yours.
+
+					        But those things which are good and profitable do provide for us; for it is You Who have given us the authority to tread on serpents and scorpions, and upon all the power of the enemy.
+
+					        And lead us not into temptation, but deliver us from evil, by the grace, compassion and love of mankind, of Your Only-Begotten Son, our Lord, God and Savior, Jesus Christ, through Whom the glory, the honor, the dominion, and the adoration are due unto You, with Him, and the Holy Spirit, the Life-Giver, Who is of one essence with You, now and at all times, and unto the ages of all ages. Amen.
+					        <LineBreak/>
+                            </TextBlock>
+                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+					        <Run Foreground="{StaticResource PhoneAccentBrush}">
+						        PSALM 50 
+					        </Run>
+					        <LineBreak/>
+					        Have mercy upon me, O God, according to Your great mercy; and according to the multitude of Your compassions blot out my iniquity. Wash me thoroughly from my iniquity, and cleanse me from my sin. For I am conscious of my iniquity; and my sin is at all times before me.
+
+					        Against You only I have sinned, and done evil before You: that You might be just in Your sayings, and might overcome when You are judged. For, behold, I was conceived in iniquities, and in sins my mother conceived me.
+
+					        For, behold, You have loved the truth: You have manifested to me the hidden and unrevealed things of Your wisdom. You shall sprinkle me with Your hyssop, and I shall be purified: You shall wash me, and I shall be made whiter than snow. You shall make me to hear gladness and joy: the humbled bones shall rejoice.
+
+					        Turn away Your face from my sins, and blot out all my iniquities. Create in me a clean heart, O God; and renew a right spirit in my inward parts. Do not cast me away from Your face; and do not remove Your Holy Spirit from me. Give me the joy of Your salvation: and uphold me with a directing spirit. Then I shall teach the transgressors Your ways; and the ungodly men shall turn to You.
+
+					        Deliver me from blood, O God, the God of my salvation: and my tongue shall rejoice in Your righteousness. O Lord, You shall open my lips; and my mouth shall declare Your praise. For if You desired sacrifice, I would have given it: You do not take pleasure in burnt offerings. The sacrifice of God is a broken spirit: a broken and humbled heart God shall not despise.
+
+					        Do good, O Lord, in Your good pleasure to Zion; and let the walls of Jerusalem be built. Then You shall be pleased with sacrifices of righteousness, offering, and burnt sacrifices: then they shall offer calves upon Your altar. ALLELUIA.
+				        <LineBreak/>
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+
             </controls:PivotItem>
 
             <!--Pivot item two-->
-            <controls:PivotItem Header="item2">
-                <Grid/>
+            <controls:PivotItem Header="menu">
+                <Grid x:Name="ContentPane2"  Grid.Row="1" Margin="12,0,12,0">
+                <ScrollViewer>
+                    <StackPanel Margin="12,0,0,0" RenderTransformOrigin="0.578,-0.068" >
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  FontSize="38" BorderBrush="Transparent" Content="Prime" Height="85" HorizontalAlignment="Left" Name="Prime" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Prime_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Terce" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="Terce" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Terce_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Sext" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="Sext" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Sext_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="None" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="None" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="None_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Vespers" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="Vespers" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Vespers_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Compline" FontSize="38" Height="85" HorizontalAlignment="Left" Name="Compline" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Compline_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Veil" FontSize="38" Height="85" HorizontalAlignment="Left" Name="Veil" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Veil_Click" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Midnight" FontSize="38" Height="85" HorizontalAlignment="Left" Name="Midnight" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Midnight_Click" />
+                    </StackPanel>
+                </ScrollViewer>
+                </Grid>
             </controls:PivotItem>
         </controls:Pivot>
     </Grid>
