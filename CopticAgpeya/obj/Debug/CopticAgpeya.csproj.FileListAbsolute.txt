@@ -23,3 +23,14 @@ C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\ob
 C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\English\Terce.g.cs
 C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\English\Veil.g.cs
 C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\English\Vespers.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Compline.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Intro.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Midnight.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\None.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Prayers.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Prime.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Sext.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Terce.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Veil.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Vespers.g.cs
+C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\ArMainPage.g.cs

@@ -177,131 +177,132 @@
                 <Grid x:Name="ContentPane2" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                    <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            THE HOLY GOSPEL ACCORDING TO ST. JOHN (CH. 14:26-31 and CH. 15:1-4) 
+                            </Run>
+                            <LineBreak/>
+                            When the Comforter, the Holy Spirit, Whom the Father will send in My name, has come, He shall teach you all things, and bring to your remembrance all things that I have said unto you. My peace I leave with you, My peace I give unto you: not as the world gives do I give unto you. Let not your heart be troubled, neither let it be afraid. You have heard how I said unto you, “I go away, and come again unto you.” If you loved Me, you would rejoice, because I said, “I go unto the Father”: for My Father is greater than I. And now I have told you before it comes to pass, that, when it comes to pass, you might believe. I will not talk much with you: for the prince of this world comes, and has nothing in Me. But that the world may know that I love the Father; and as the Father gave Me commandment, so I do: arise, let us go from here.
 
-                            THE HOLY GOSPEL ACCORDING TO ST. JOHN (CH. 14:26-31  CH. 15:1-4) 
-</Run>
-                                
-                    When the Comforter, the Holy Spirit, Whom the Father will send in My name, has come, He shall teach you all things, and bring to your remembrance all things that I have said unto you. My peace I leave with you, My peace I give unto you: not as the world gives do I give unto you. Let not your heart be troubled, neither let it be afraid. You have heard how I said unto you, “I go away, and come again unto you.” If you loved Me, you would rejoice, because I said, “I go unto the Father”: for My Father is greater than I. And now I have told you before it comes to pass, that, when it comes to pass, you might believe. I will not talk much with you: for the prince of this world comes, and has nothing in Me. But that the world may know that I love the Father; and as the Father gave Me commandment, so I do: arise, let us go from here.
+                            I am the true vine, and My Father is the vinedresser. Every branch in Me that does not bear fruit He takes away: and every branch that bears fruit He prunes, that it may bring forth more fruit. Now you are clean through the word which I have spoken unto you. Abide in Me, and I in you.
 
-                    I am the true vine, and My Father is the vinedresser. Every branch in Me that does not bear fruit He takes away: and every branch that bears fruit He prunes, that it may bring forth more fruit. Now you are clean through the word which I have spoken unto you. Abide in Me, and I in you.
+                            Glory to God forever. Amen.
 
-                    Glory to God forever. Amen.
 
-                            
+
                             <Run Foreground="#FFC125">
-                                Tenoo oasht emmok o piekhristos nem pekyot en aghathos nem pi epnevma ethowab je akee ak soati emmon nai nan
+                            Tenoo oasht emmok o piekhristos nem pekyot en aghathos nem pi epnevma ethowab je akee ak soati emmon nai nan
 
-                    We worship You O Christ with Your Good Father and the Holy Spirit, for You have come and saved us.
+                            We worship You O Christ with Your Good Father and the Holy Spirit, for You have come and saved us.
                             </Run>
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
-                    1.  Your Holy Spirit, O Lord Whom You sent forth upon Your holy disciples and honored apostles in the third hour, do not take away from us, O Good One, but renew Him within us. Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence. And do not take Your Holy Spirit away from me.
+                            1.  Your Holy Spirit, O Lord Whom You sent forth upon Your holy disciples and honored apostles in the third hour, do not take away from us, O Good One, but renew Him within us. Create in me a clean heart, O God, and renew a steadfast spirit within me. Do not cast me away from Your presence. And do not take Your Holy Spirit away from me.
                     
-                    <LineBreak/>
-                    <Run Foreground="#FFC125">
+                            <LineBreak/>
+                            <Run Foreground="#FFC125">
 
-                    Doxa Patri ke Eioa ke Agio Pnevmati
+                            Doxa Patri ke Eioa ke Agio Pnevmati
 
-                    Glory to the Father, and the Son, and the Holy Spirit.
-                        </Run>
-                    <LineBreak/>
+                            Glory to the Father, and the Son, and the Holy Spirit.
+                            </Run>
+                            <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
-                    2.  O Lord who sent down Your Holy Spirit upon Your holy disciples and Your honored apostles in the third hour, do not take Him away from us, O Good One, but we ask You to renew Him within us, O Lord Jesus Christ, Son of God, the Word; a steadfast and life giving spirit, a spirit of prophecy and chastity, a spirit of holiness, justice and authority, O the Almighty One, for You are the light of our souls. O Who shines upon every man that comes into the world, have mercy onme.
+                            2.  O Lord who sent down Your Holy Spirit upon Your holy disciples and Your honored apostles in the third hour, do not take Him away from us, O Good One, but we ask You to renew Him within us, O Lord Jesus Christ, Son of God, the Word; a steadfast and life giving spirit, a spirit of prophecy and chastity, a spirit of holiness, justice and authority, O the Almighty One, for You are the light of our souls. O Who shines upon every man that comes into the world, have mercy onme.
 
-                    <LineBreak/>
+                            <LineBreak/>
  
-                    <Run Foreground="#FFC125">
-                    Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
+                            <Run Foreground="#FFC125">
+                            Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
 
-                    Now and forever and unto the ages of all ages, Amen.
-                    </Run>
-                                        <LineBreak/>
+                            Now and forever and unto the ages of all ages, Amen.
+                            </Run>
+                                    <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
-                    3.  O Theotokos, you are the true vine who bore the Cluster of Life, we ask you, O full of grace, with the apostles, for the salvation of our souls. Blessed is the Lord our God. Blessed is the Lord day by day. He prepares our way, for He is God of our salvation.
+                            3.  O Theotokos, you are the true vine who bore the Cluster of Life, we ask you, O full of grace, with the apostles, for the salvation of our souls. Blessed is the Lord our God. Blessed is the Lord day by day. He prepares our way, for He is God of our salvation.
 
-                    <LineBreak/>
- 
-
-                    <Run Foreground="#FFC125">
-                    Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
-
-                    Now and forever and unto the ages of all ages, Amen.
-                        </Run>                
-                        <LineBreak/>
-                            </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                    <Run Foreground="{StaticResource PhoneAccentBrush}">
-
-                    4.  O Heavenly King, the Comforter, the Spirit of truth, who is present in all places and fills all, the treasury of good things and the Life-Giver, graciously come, and dwell in us and purify us from all defilement, O Good One, and save our souls.
-                    </Run>
-                    <LineBreak/>
-
-
-                    Doxa Patri ke Eioa ke Agio Pnevmati
-
-                    Glory to the Father, and the Son, and the Holy Spirit.
-                                        <LineBreak/>
-                            </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                    <Run Foreground="{StaticResource PhoneAccentBrush}">
-
-                    5.  Just as You were with Your disciples, O Savior, and gave them peace, graciously come also and be with us, and grant us Your peace, and save us, and deliver our souls.
-                    </Run>
-                    <LineBreak/>
+                            <LineBreak/>
  
 
-                    Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
+                            <Run Foreground="#FFC125">
+                            Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
 
-                    Now and forever and unto the ages of all ages, Amen.
-                                        <LineBreak/>
+                            Now and forever and unto the ages of all ages, Amen.
+                            </Run>                
+                            <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                    <Run Foreground="{StaticResource PhoneAccentBrush}">
-                    6.  Whenever we stand in Your holy sanctuary, we are considered standing in heaven. O Theotokos, you are the gate of heaven, open for us the gate of mercy.
-                    </Run>
-                    <LineBreak/>
-                    Then the worshipper prays:
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
-                    Lord, hear us and have mercy on us and forgive us our sins. Amen. 
+                            4.  O Heavenly King, the Comforter, the Spirit of truth, who is present in all places and fills all, the treasury of good things and the Life-Giver, graciously come, and dwell in us and purify us from all defilement, O Good One, and save our souls.
+                            <LineBreak/>
 
-                    (Lord have mercy) 41 times
+                            <Run Foreground="#FFC125">
+                            Doxa Patri ke Eioa ke Agio Pnevmati
 
-                    HOLY HOLY HOLY 
-
-                    Holy Holy Holy. Lord of hosts. Heaven and earth are full of Your glory and honor. Have mercy on us, O God the Father, the Almighty O Holy Trinity, have mercy on us. O Lord, God of hosts, be with us. For we have no helper in our hardships and tribulations but You. Absolve, forgive, and remit, O God, our transgressions; those which we have committed willingly and those we have committed unwillingly, those which we have committed knowingly and those which we have committed unknowingly, the hidden and manifest, O Lord forgive us, for the sake of Your Holy name which is called upon us.
-
-                    Let it be according to Your mercy, O Lord, and not according to our sins.
-
-                    Make us worthy to pray thankfully:
-
-                    Our Father Who art in heaven ...
-                                        <LineBreak/>
+                            Glory to the Father, and the Son, and the Holy Spirit.
+                            </Run>                                  
+                                <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                    <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
-                    ABSOLUTION 
-                    </Run>
-                    <LineBreak/>
-                    O God of all compassion, and Lord of all comfort, who comforted us at all times with the comfort of Your Holy Spirit, we thank You for You raised us for prayer in this holy hour, in which You abundantly poured the grace of Your Holy Spirit upon Your holy disciples and honorable and blessed apostles, like tongues of fire.
+                            5.  Just as You were with Your disciples, O Savior, and gave them peace, graciously come also and be with us, and grant us Your peace, and save us, and deliver our souls.
+                            <LineBreak/>
+ 
+                            <Run Foreground="#FFC125">
+                            Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
 
-                    We ask and entreat You, O lover of mankind, to accept our prayers, and forgive our sins, and send forth upon us the grace of Your Holy Spirit, and purify us from all defilement of body and spirit.
+                            Now and forever and unto the ages of all ages, Amen.
+                            </Run>
+                                <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            6.  Whenever we stand in Your holy sanctuary, we are considered standing in heaven. O Theotokos, you are the gate of heaven, open for us the gate of mercy.
 
-                    Change us into a spiritual manner of life, that we may walk in the Spirit and not fulfill the lusts of the flesh. And make us worthy to serve You with purity and righteousness all the days of our life. For  unto You is due glory, honor, and dominion, with Your good Father and the Holy Spirit, now and forever and unto the ages of all ages. Amen.
+                            <LineBreak/>
+                                <LineBreak/>
+                            Then the worshipper prays:
 
-                    THE CONCLUSION OF EVERY HOUR 
+                            Lord, hear us and have mercy on us and forgive us our sins. Amen. 
 
-                    Have mercy on us, O God, and have mercy on us, who, at all times and in every hour, in heaven and on earth, is worshipped and glorified, Christ our God, the good, the long suffering, the abundant in mercy, and the great in compassion, who loves the righteous and has mercy on the sinners of whom I am chief; who does not wish the death of the sinner but rather that he returns and lives, who calls all to salvation for the promise of the blessings to come.
+                            (Lord have mercy) 41 times
+                                <LineBreak/>
+                                <LineBreak/>
+                            
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            HOLY HOLY HOLY 
+                            </Run>
+                            Holy Holy Holy. Lord of hosts. Heaven and earth are full of Your glory and honor. Have mercy on us, O God the Father, the Almighty O Holy Trinity, have mercy on us. O Lord, God of hosts, be with us. For we have no helper in our hardships and tribulations but You. Absolve, forgive, and remit, O God, our transgressions; those which we have committed willingly and those we have committed unwillingly, those which we have committed knowingly and those which we have committed unknowingly, the hidden and manifest, O Lord forgive us, for the sake of Your Holy name which is called upon us.
 
-                    Lord receive from us our prayers in this hour and in every hour. Ease our life and guide us to fulfill Your commandments. Sanctify our spirits. Cleanse our bodies. Conduct our thoughts. Purify our intentions. Heal our diseases. Forgive our sins. Deliver us from every evil grief and distress of heart. Surround us by Your holy angels, that, by their camp, we may be guarded and guided, and attain the unity of faith, and the knowledge of Your imperceptible and infinite glory. For You are blessed forever. Amen.
+                            Let it be according to Your mercy, O Lord, and not according to our sins.
+
+                            Make us worthy to pray thankfully:
+
+                            Our Father Who art in heaven ...
+                                    <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+
+                            ABSOLUTION 
+                            </Run>
+                            <LineBreak/>
+                            O God of all compassion, and Lord of all comfort, who comforted us at all times with the comfort of Your Holy Spirit, we thank You for You raised us for prayer in this holy hour, in which You abundantly poured the grace of Your Holy Spirit upon Your holy disciples and honorable and blessed apostles, like tongues of fire.
+
+                            We ask and entreat You, O lover of mankind, to accept our prayers, and forgive our sins, and send forth upon us the grace of Your Holy Spirit, and purify us from all defilement of body and spirit.
+
+                            Change us into a spiritual manner of life, that we may walk in the Spirit and not fulfill the lusts of the flesh. And make us worthy to serve You with purity and righteousness all the days of our life. For  unto You is due glory, honor, and dominion, with Your good Father and the Holy Spirit, now and forever and unto the ages of all ages. Amen.
+
+                            THE CONCLUSION OF EVERY HOUR 
+
+                            Have mercy on us, O God, and have mercy on us, who, at all times and in every hour, in heaven and on earth, is worshipped and glorified, Christ our God, the good, the long suffering, the abundant in mercy, and the great in compassion, who loves the righteous and has mercy on the sinners of whom I am chief; who does not wish the death of the sinner but rather that he returns and lives, who calls all to salvation for the promise of the blessings to come.
+
+                            Lord receive from us our prayers in this hour and in every hour. Ease our life and guide us to fulfill Your commandments. Sanctify our spirits. Cleanse our bodies. Conduct our thoughts. Purify our intentions. Heal our diseases. Forgive our sins. Deliver us from every evil grief and distress of heart. Surround us by Your holy angels, that, by their camp, we may be guarded and guided, and attain the unity of faith, and the knowledge of Your imperceptible and infinite glory. For You are blessed forever. Amen.
                             </TextBlock>
                         </StackPanel>
                     </ScrollViewer>

@@ -61,6 +61,39 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Arabic\Compline.xaml.cs">
+      <DependentUpon>Compline.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Intro.xaml.cs">
+      <DependentUpon>Intro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Midnight.xaml.cs">
+      <DependentUpon>Midnight.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\None.xaml.cs">
+      <DependentUpon>None.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Prayers.xaml.cs">
+      <DependentUpon>Prayers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Prime.xaml.cs">
+      <DependentUpon>Prime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Sext.xaml.cs">
+      <DependentUpon>Sext.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Terce.xaml.cs">
+      <DependentUpon>Terce.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Veil.xaml.cs">
+      <DependentUpon>Veil.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Arabic\Vespers.xaml.cs">
+      <DependentUpon>Vespers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ArMainPage.xaml.cs">
+      <DependentUpon>ArMainPage.xaml</DependentUpon>
+    </Compile>
     <Compile Include="English\Compline.xaml.cs">
       <DependentUpon>Compline.xaml</DependentUpon>
     </Compile>
@@ -103,6 +136,50 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
+    <Page Include="Arabic\Compline.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Intro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Midnight.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\None.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Prayers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Prime.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Sext.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Terce.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Veil.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Arabic\Vespers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ArMainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="English\Compline.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

@@ -162,8 +162,154 @@
             </controls:PivotItem>
 
             <!--Pivot item two-->
-            <controls:PivotItem Header="item2">
-                <Grid/>
+            <controls:PivotItem Header="Gospel">
+                <Grid x:Name="ContentPane" Grid.Row="1" Margin="12,0,0,0">
+                    <ScrollViewer>
+                        <StackPanel Margin="12,0,0,0">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            THE HOLY GOSPEL ACCORDING TO ST. MATTHEW (CH. 5 : 1-16) 
+                            </Run>
+                            <LineBreak/>
+                            And seeing the multitudes, He went up on a mountain, and when He was seated, His disciples came to Him. And He opened His mouth, and taught them, saying:
+
+                            “Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the meek, for they shall inherit the earth. Blessed are those who hunger and thirst for righteousness, for they shall be filled. Blessed are the merciful, for they shall obtain mercy. Blessed are the pure in heart, for they shall see God. Blessed are the peacemakers, for they shall be called sons of God. Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
+
+                            “Blessed are you, when they revile you, and persecute you, and say all kinds of evil against you falsely for My sake. Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you.
+
+                            “You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men.
+
+                            “You are the light of the world. A city that is set on a hill cannot be hidden; nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.
+
+                            “Let your light so shine before men, that they may see your good works, and glorify your Father Who is in heaven.”
+
+                            Glory to God forever. Amen.
+
+
+
+                            Tenoo oasht emmok o piekhristos nem pekyot en aghathos nem pi epnevma ethowab je akee ak soati emmon nai nan
+
+                            We worship You O Christ with Your Good Father and the Holy Spirit, for You have come and saved us.
+
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            1.  O You, Who on the sixth day and in the sixth hour was nailed to the cross, for the sin which our father Adam dared to commit in Paradise, tear the handwriting of our sins, O Christ our God, and save us. I cried to the Lord and He heard me. God hear my prayer, and do not refuse my petition. Be attentive to me and hear me in the evening, in the morning, and at midday. I say my words, and He hears my voice and delivers my soul in peace.
+
+                            <LineBreak/>
+
+                            <Run Foreground="#FFC125">
+                            Doxa Patri ke Eioa ke Agio Pnevmati
+
+                            Glory to the Father, and the Son, and the Holy Spirit.
+                            </Run>
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                   
+                            2.  O Jesus Christ, our God, who was nailed to the cross in the sixth hour, and killed sin by the tree, and by Your death You made alive the dead man, whom You created with Your own hands, and had died in sin. Put to death our pains by Your healing and life-giving passions, and by the nails with which You were nailed. Rescue our minds from thoughtlessness of the earthly deeds and worldly lusts, to the remembrance of Your heavenly commandments, according to Your compassion.
+
+
+                            <LineBreak/> 
+                            <Run Foreground="#FFC125">
+                            Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
+
+                            Now and forever and unto the ages of all ages, Amen.
+                            </Run>
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            3.  Since we have no favor, nor excuse, nor justification because of our many sins, we, through you, implore to Him who was born of you, O Theotokos, the Virgin, for abundant and acceptable is your intercession with our Savior. O pure mother, do not exclude sinners from your intercession with Him whom you bore, for He is merciful and able to save us, because He suffered for us to deliver us. Let your compassion speedily reach us, for we are exceedingly humbled. Help us, O God, our Savior, for the glory of Your name. O Lord, deliver us and forgive us our sins for the sake of Your holy name.
+
+
+                            <LineBreak/> 
+                            <Run Foreground="#FFC125">
+                            Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
+
+                            Now and forever and unto the ages of all ages, Amen.
+                            </Run>
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            4.  You wrought salvation in the midst of all the earth, O Christ our God, as You stretched Your holy hands on the cross. Therefore, all nations cry out saying, “Glory to You O Lord”.
+
+
+                            <LineBreak/>
+                            <Run Foreground="#FFC125">
+                            Doxa Patri ke Eioa ke Agio Pnevmati
+
+                            Glory to the Father, and the Son, and the Holy Spirit.
+                            </Run>
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            5.  We worship Your incorruptible person, O Good One, asking for the forgiveness of our sins, O Christ our God. For, of Your will, You were pleased to be lifted up onto the cross, to deliver those whom You created from the bondage of the enemy. We cry out unto You and give thanks to You, for You have filled all with joy, O Savior, when You came to help the world. Lord, glory to You.
+
+
+                            <LineBreak/> 
+                            <Run Foreground="#FFC125">
+                            Ke nin ke a ee ke ees toos e onas toan e oa noan ameen.
+
+                            Now and forever and unto the ages of all ages, Amen.
+                            </Run>
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            6.  You are she who is full of grace. O Theotokos, the Virgin, we praise you, for, through the cross of your Son, Hades fell down and death was abolished. We were dead but we are raised and became worthy of eternal life, and gained the delight of the first Paradise. Therefore, we thankfully glorify the immortal Christ our God.
+
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+
+                            Then the worshipper prays:
+
+                            <LineBreak/>
+                            Lord, hear us and have mercy on us and forgive us our sins. Amen. 
+
+                            (Lord have mercy) 41 times
+                            <LineBreak/>
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            HOLY HOLY HOLY 
+                            </Run>
+                            <LineBreak/>
+                            Holy Holy Holy. Lord of hosts. Heaven and earth are full of Your glory and honor. Have mercy on us, O God the Father, the Almighty O Holy Trinity, have mercy on us. O Lord, God of hosts, be with us. For we have no helper in our hardships and tribulations but You. Absolve, forgive, and remit, O God, our transgressions; those which we have committed willingly and those we have committed unwillingly, those which we have committed knowingly and those which we have committed unknowingly, the hidden and manifest, O Lord forgive us, for the sake of Your Holy name which is called upon us.
+
+                            Let it be according to Your mercy, O Lord, and not according to our sins.
+
+                            Make us worthy to pray thankfully:
+
+                            Our Father Who art in heaven ...
+
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            ABSOLUTION 
+                            </Run>
+                            <LineBreak/>
+                            We thank You, our King, the Almighty, the Father of our Lord God and Savior Jesus Christ, and glorify You, for You have made the times of the passions of Your Only-Begotten Son, to be times of comfort and prayer. Accept our supplication and abolish the handwriting of our sins that is written against us, just as You tore it in this holy hour, by the cross of Your Only-Begotten Son, Jesus Christ, our Lord and Savior of our souls, this is by which you destroyed all the power of the enemy.
+
+                            Grant us, O God, a glorious time, a spotless conduct, and a peaceful life, so that we may please Your holy and worshipped name, and that, without falling into condemnation, we may stand before the fearful and just throne of Your Only-Begotten Son Jesus Christ our Lord, and that we, together with all Your saints, glorify You, our Father, who is without beginning, and the Son who is of one essence with You, and the Holy Spirit the Life-Giver, now and forever and unto the ages of all ages. Amen.
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            THE CONCLUSION OF EVERY HOUR 
+                            </Run>
+                            <LineBreak/>
+                            Have mercy on us, O God, and have mercy on us, who, at all times and in every hour, in heaven and on earth, is worshipped and glorified, Christ our God, the good, the long suffering, the abundant in mercy, and the great in compassion, who loves the righteous and has mercy on the sinners of whom I am chief; who does not wish the death of the sinner but rather that he returns and lives, who calls all to salvation for the promise of the blessings to come.
+
+                            Lord receive from us our prayers in this hour and in every hour. Ease our life and guide us to fulfill Your commandments. Sanctify our spirits. Cleanse our bodies. Conduct our thoughts. Purify our intentions. Heal our diseases. Forgive our sins. Deliver us from every evil grief and distress of heart. Surround us by Your holy angels, that, by their camp, we may be guarded and guided, and attain the unity of faith, and the knowledge of Your imperceptible and infinite glory. For You are blessed forever. Amen.
+                            </TextBlock>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+
             </controls:PivotItem>
         </controls:Pivot>
     </Grid>

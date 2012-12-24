@@ -19,7 +19,7 @@
         <!--Pivot Control-->
         <controls:Pivot Title="COPTIC AGPEYA">
             <!--Pivot item one-->
-            <controls:PivotItem Header="Psalms">
+            <controls:PivotItem Header="Prayers">
                 <Grid x:Name="ContentPane2" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
@@ -198,10 +198,7 @@
                 </Grid>
             </controls:PivotItem>
 
-            <!--Pivot item two-->
-            <controls:PivotItem Header="item2">
-                <Grid/>
-            </controls:PivotItem>
+
         </controls:Pivot>
     </Grid>
     
