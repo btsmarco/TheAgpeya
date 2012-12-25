@@ -71,11 +71,24 @@
             </controls:PivotItem>
 
             <!--Pivot item two-->
-            <controls:PivotItem Header="item">
+            <controls:PivotItem Header="menu">
                 <Grid x:Name="ContentPanel1" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-
+                            <!--Grid x:Name="ContentPanel"  Grid.Row="1" Margin="12,0,12,0"-->
+                            <ScrollViewer>
+                                <StackPanel Margin="12,0,0,0" RenderTransformOrigin="0.578,-0.068" >
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  FontSize="38" BorderBrush="Transparent" Content="باكر" Height="85" HorizontalAlignment="Right" x:Name="Prime" VerticalAlignment="Top" Width="200" HorizontalContentAlignment="Right" Click="Prime_Click" />
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="الساعه الثالثه" FontSize="38" Height="85" HorizontalAlignment="Right"  x:Name="Terce" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="Terce_Click" />
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="الساعه السادسة" FontSize="38" Height="85" HorizontalAlignment="Right"  x:Name="Sext" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="Sext_Click" />
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content=" الساعه التاسعة" FontSize="38" Height="85" HorizontalAlignment="Right"  x:Name="None" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="None_Click" />
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content=" الغروب" FontSize="38" Height="85" HorizontalAlignment="Right"  x:Name="Vespers" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="Vespers_Click" />
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content=" النوم" FontSize="38" Height="85" HorizontalAlignment="Right" x:Name="Compline" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="Compline_Click" />
+                                    <!--Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content=" السِتار" FontSize="38" Height="85" HorizontalAlignment="Right" Name="Veil" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="Veil_Click" /-->
+                                    <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content=" نصف الليل" FontSize="38" Height="85" HorizontalAlignment="Right" x:Name="Midnight" VerticalAlignment="Top" Width="300" HorizontalContentAlignment="Right" Click="Midnight_Click" />
+                                </StackPanel>
+                            </ScrollViewer>
+                            <!--/Grid-->
                         </StackPanel>
                     </ScrollViewer>
                 </Grid>
