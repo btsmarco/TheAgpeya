@@ -64,5 +64,15 @@ namespace CopticAgpeya.English
         {
             NavigationService.Navigate(new Uri("/English/Veil.xaml", UriKind.Relative));
         }
+
+        private void arabicLight(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/ArMainPage.xaml", UriKind.Relative));
+        }
+
+        private void About(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
+        }
     }
 }

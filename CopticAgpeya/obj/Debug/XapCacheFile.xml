@@ -1,9 +1,13 @@
-﻿<xapCache source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\CopticAgpeya.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/25/2012 3:01:59 PM">
+﻿<xapCache source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\CopticAgpeya.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/26/2012 5:11:43 PM">
   <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/21/2012 10:19:11 PM" />
   <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Background.png" archivePath="Background.png" lastWriteTime="12/21/2012 10:19:07 PM" />
   <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12/21/2012 10:19:07 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\CopticAgpeya.dll" archivePath="CopticAgpeya.dll" lastWriteTime="12/25/2012 3:01:58 PM" />
+  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\CopticAgpeya.dll" archivePath="CopticAgpeya.dll" lastWriteTime="12/26/2012 5:11:42 PM" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 1:40:16 PM" />
+  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\arabicDark.png" archivePath="icons\arabicDark.png" lastWriteTime="12/26/2012 4:35:36 PM" />
+  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\arabicLight.png" archivePath="icons\arabicLight.png" lastWriteTime="12/26/2012 4:35:36 PM" />
+  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\englishDark.png" archivePath="icons\englishDark.png" lastWriteTime="12/26/2012 5:00:54 PM" />
+  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\englishLight.png" archivePath="icons\englishLight.png" lastWriteTime="12/26/2012 4:58:03 PM" />
   <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12/21/2012 10:19:07 PM" />
   <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/21/2012 10:19:11 PM" />
   <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12/21/2012 10:19:07 PM" />

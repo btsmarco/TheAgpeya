@@ -19,5 +19,15 @@ namespace CopticAgpeya
         {
             InitializeComponent();
         }
+
+        private void arabicLight(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/ArMainPage.xaml", UriKind.Relative));
+        }
+
+        private void About(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
+        }
     }
 }

@@ -34,3 +34,4 @@ C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\ob
 C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Veil.g.cs
 C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\Arabic\Vespers.g.cs
 C:\Users\DELL\Documents\Visual Studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\ArMainPage.g.cs
+C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\about.g.cs
