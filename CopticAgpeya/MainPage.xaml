@@ -64,6 +64,24 @@
                     </ListBox.ItemTemplate>
                 </ListBox>
             </controls:PanoramaItem>
+            
+            <!--Panorama Item 3-->
+            <controls:PanoramaItem Header="audio">
+                <ScrollViewer>
+                    <StackPanel Margin="12,0,0,0" RenderTransformOrigin="0.578,-0.068" >
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  FontSize="38" BorderBrush="Transparent" Content="Prime" Height="85" HorizontalAlignment="Left" Name="APrime" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Prime_ClickA" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Terce" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="ATerce" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Terce_ClickA" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Sext" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="ASext" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Sext_ClickA" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="None" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="ANone" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="None_ClickA" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Vespers" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="AVespers" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Vespers_ClickA" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Compline" FontSize="38" Height="85" HorizontalAlignment="Left" Name="ACompline" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Compline_ClickA" />
+                        <!--Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Veil" FontSize="38" Height="85" HorizontalAlignment="Left" Name="Veil" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Veil_Click" /-->
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Midnight" FontSize="38" Height="85" HorizontalAlignment="Left" Name="AMidnight" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Midnight_ClickA" />
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Other Prayers" FontSize="38" Height="85" HorizontalAlignment="Left" Name="AOther" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Other_ClickA" />
+                    </StackPanel>
+                </ScrollViewer>
+               
+            </controls:PanoramaItem>
         </controls:Panorama>
     </Grid>
 
@@ -73,6 +91,7 @@
             <shell:ApplicationBarIconButton IconUri="/icons/arabicdark.png" Text="arabic" Click="arabicLight"/>
             <shell:ApplicationBar.MenuItems>
                 <shell:ApplicationBarMenuItem Text="About" Click="About" />
+                <shell:ApplicationBarMenuItem Text="Settings" Click="Settings" />
             </shell:ApplicationBar.MenuItems>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>

@@ -99,5 +99,60 @@ namespace CopticAgpeya
         {
             NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
         }
+
+       
+        private void Settings(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Settings.xaml", UriKind.Relative));
+        }
+        private void Prime_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Prime.xaml", UriKind.Relative));
+        }
+
+        private void Terce_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Terce.xaml", UriKind.Relative));
+        }
+
+        private void Sext_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Sext.xaml", UriKind.Relative));
+        }
+
+        private void None_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/None.xaml", UriKind.Relative));
+        }
+
+        private void Vespers_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Vespers.xaml", UriKind.Relative));
+        }
+
+        private void Compline_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Compline.xaml", UriKind.Relative));
+        }
+
+        private void Midnight_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Midnight.xaml", UriKind.Relative));
+        }
+
+        private void Other_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Prayers.xaml", UriKind.Relative));
+        }
+
+        private void Intro_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Intro.xaml", UriKind.Relative));
+        }
+
+        private void Veil_ClickA(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/EnglishA/Veil.xaml", UriKind.Relative));
+        }
     }
 }

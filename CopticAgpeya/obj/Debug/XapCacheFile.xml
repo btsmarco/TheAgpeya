@@ -1,15 +1,96 @@
-﻿<xapCache source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\CopticAgpeya.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/26/2012 5:11:43 PM">
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/21/2012 10:19:11 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Background.png" archivePath="Background.png" lastWriteTime="12/21/2012 10:19:07 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12/21/2012 10:19:07 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\obj\Debug\CopticAgpeya.dll" archivePath="CopticAgpeya.dll" lastWriteTime="12/26/2012 5:11:42 PM" />
-  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 1:40:16 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\arabicDark.png" archivePath="icons\arabicDark.png" lastWriteTime="12/26/2012 4:35:36 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\arabicLight.png" archivePath="icons\arabicLight.png" lastWriteTime="12/26/2012 4:35:36 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\englishDark.png" archivePath="icons\englishDark.png" lastWriteTime="12/26/2012 5:00:54 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\icons\englishLight.png" archivePath="icons\englishLight.png" lastWriteTime="12/26/2012 4:58:03 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12/21/2012 10:19:07 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/21/2012 10:19:11 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12/21/2012 10:19:07 PM" />
-  <file source="C:\Users\DELL\documents\visual studio 2012\Projects\CopticAgpeya\CopticAgpeya\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="12/21/2012 10:19:07 PM" />
+﻿<xapCache source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\CopticAgpeya.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="12/26/2012 4:16:00 PM">
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/26/2012 11:36:54 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Background.png" archivePath="Background.png" lastWriteTime="12/26/2012 11:36:53 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12/26/2012 11:36:53 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\CopticAgpeya.dll" archivePath="CopticAgpeya.dll" lastWriteTime="12/26/2012 4:15:53 PM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\packages\PhoneThemeManager.1.3.2\lib\sl4-windowsphone71\JeffWilcox.PhoneThemeManager.dll" archivePath="JeffWilcox.PhoneThemeManager.dll" lastWriteTime="12/26/2012 11:54:28 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="7/6/2012 2:40:16 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\022-Psalm22.mp3" archivePath="AgpeyaHyms\2 terence\022-Psalm22.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\029-Psalm29.mp3" archivePath="AgpeyaHyms\2 terence\029-Psalm29.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\046-Psalm46.mp3" archivePath="AgpeyaHyms\2 terence\046-Psalm46.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\holyholyholy.mp3" archivePath="AgpeyaHyms\2 terence\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\kerie_eleyson.mp3" archivePath="AgpeyaHyms\2 terence\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\tenoo-oasht.mp3" archivePath="AgpeyaHyms\2 terence\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\terce_gospel.mp3" archivePath="AgpeyaHyms\2 terence\terce_gospel.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\terce_litanies.mp3" archivePath="AgpeyaHyms\2 terence\terce_litanies.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\2 terence\welookfortheresurrrection.mp3" archivePath="AgpeyaHyms\2 terence\welookfortheresurrrection.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\083-Psalm83.mp3" archivePath="AgpeyaHyms\3 Sext\083-Psalm83.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\086-Psalm86.mp3" archivePath="AgpeyaHyms\3 Sext\086-Psalm86.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\092-Psalm92.mp3" archivePath="AgpeyaHyms\3 Sext\092-Psalm92.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\holyholyholy.mp3" archivePath="AgpeyaHyms\3 Sext\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\kerie_eleyson.mp3" archivePath="AgpeyaHyms\3 Sext\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:26 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\sext_gospel.mp3" archivePath="AgpeyaHyms\3 Sext\sext_gospel.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\sext_litanies.mp3" archivePath="AgpeyaHyms\3 Sext\sext_litanies.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\tenoo-oasht.mp3" archivePath="AgpeyaHyms\3 Sext\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\3 Sext\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\3 Sext\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\129-Psalm129.mp3" archivePath="AgpeyaHyms\Colimpine\129-Psalm129.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\131-Psalm131.mp3" archivePath="AgpeyaHyms\Colimpine\131-Psalm131.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\133-Psalm133.mp3" archivePath="AgpeyaHyms\Colimpine\133-Psalm133.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\147-Psalm147.mp3" archivePath="AgpeyaHyms\Colimpine\147-Psalm147.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\compline_gospel.mp3" archivePath="AgpeyaHyms\Colimpine\compline_gospel.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\compline_litanies.mp3" archivePath="AgpeyaHyms\Colimpine\compline_litanies.mp3" lastWriteTime="12/26/2012 11:39:27 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\holyGod.mp3" archivePath="AgpeyaHyms\Colimpine\holyGod.mp3" lastWriteTime="12/26/2012 11:39:28 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\holyholyholy.mp3" archivePath="AgpeyaHyms\Colimpine\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:28 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\kerie_eleyson.mp3" archivePath="AgpeyaHyms\Colimpine\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\tenoo-oasht.mp3" archivePath="AgpeyaHyms\Colimpine\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\Colimpine\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Colimpine\welookfortheresurrrection.mp3" archivePath="AgpeyaHyms\Colimpine\welookfortheresurrrection.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\001-Psalm1.mp3" archivePath="AgpeyaHyms\First Hour\001-Psalm1.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\003-Psalm3.mp3" archivePath="AgpeyaHyms\First Hour\003-Psalm3.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\008-Psalm8.mp3" archivePath="AgpeyaHyms\First Hour\008-Psalm8.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\012-Psalm12.mp3" archivePath="AgpeyaHyms\First Hour\012-Psalm12.mp3" lastWriteTime="12/26/2012 11:39:29 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\014-Psalm14.mp3" archivePath="AgpeyaHyms\First Hour\014-Psalm14.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\112-Psalm112.mp3" archivePath="AgpeyaHyms\First Hour\112-Psalm112.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\hail_to_you.mp3" archivePath="AgpeyaHyms\First Hour\hail_to_you.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\holyGod.mp3" archivePath="AgpeyaHyms\First Hour\holyGod.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\holyholyholy.mp3" archivePath="AgpeyaHyms\First Hour\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\kerie_eleyson.mp3" archivePath="AgpeyaHyms\First Hour\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\prime_gospel.mp3" archivePath="AgpeyaHyms\First Hour\prime_gospel.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\prime_litanies.mp3" archivePath="AgpeyaHyms\First Hour\prime_litanies.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\tenoo-oasht.mp3" archivePath="AgpeyaHyms\First Hour\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\First Hour\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\First Hour\welookfortheresurrrection.mp3" archivePath="AgpeyaHyms\First Hour\welookfortheresurrrection.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\holyholyholy.mp3" archivePath="AgpeyaHyms\Midnight\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\holyholyholy1.mp3" archivePath="AgpeyaHyms\Midnight\holyholyholy1.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\kerie_eleyson.mp3" archivePath="AgpeyaHyms\Midnight\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\kerie_eleyson1.mp3" archivePath="AgpeyaHyms\Midnight\kerie_eleyson1.mp3" lastWriteTime="12/26/2012 11:39:31 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\midnight_firstwatch_litanies.mp3" archivePath="AgpeyaHyms\Midnight\midnight_firstwatch_litanies.mp3" lastWriteTime="12/26/2012 11:39:31 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\midnight_secondwatch_gospel.mp3" archivePath="AgpeyaHyms\Midnight\midnight_secondwatch_gospel.mp3" lastWriteTime="12/26/2012 11:39:31 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\midnight_secondwatch_litanies.mp3" archivePath="AgpeyaHyms\Midnight\midnight_secondwatch_litanies.mp3" lastWriteTime="12/26/2012 11:39:32 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\midnight_thirdwatch_gospel1.mp3" archivePath="AgpeyaHyms\Midnight\midnight_thirdwatch_gospel1.mp3" lastWriteTime="12/26/2012 11:39:32 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\midnight_thirdwatch_gospel2.mp3" archivePath="AgpeyaHyms\Midnight\midnight_thirdwatch_gospel2.mp3" lastWriteTime="12/26/2012 11:39:32 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\midnight_thirdwatch_litanies.mp3" archivePath="AgpeyaHyms\Midnight\midnight_thirdwatch_litanies.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\tenoo-oasht.mp3" archivePath="AgpeyaHyms\Midnight\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\tenoo-oasht1.mp3" archivePath="AgpeyaHyms\Midnight\tenoo-oasht1.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\Midnight\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Midnight\welookfortheresurrrection.mp3" archivePath="AgpeyaHyms\Midnight\welookfortheresurrrection.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\095-Psalm95.mp3" archivePath="AgpeyaHyms\None\095-Psalm95.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\099-Psalm99.mp3" archivePath="AgpeyaHyms\None\099-Psalm99.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\109-Psalm109.mp3" archivePath="AgpeyaHyms\None\109-Psalm109.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\112-Psalm112.mp3" archivePath="AgpeyaHyms\None\112-Psalm112.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\holyholyholy.mp3" archivePath="AgpeyaHyms\None\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\kerie_eleyson.mp3" archivePath="AgpeyaHyms\None\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\none_gospel.mp3" archivePath="AgpeyaHyms\None\none_gospel.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\none_litanies.mp3" archivePath="AgpeyaHyms\None\none_litanies.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\tenoo-oasht.mp3" archivePath="AgpeyaHyms\None\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\None\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\None\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Veil\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\Veil\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:33 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\116-Psalm116.mp3" archivePath="AgpeyaHyms\Vespers\116-Psalm116.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\121-Psalm121.mp3" archivePath="AgpeyaHyms\Vespers\121-Psalm121.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\125-Psalm125.mp3" archivePath="AgpeyaHyms\Vespers\125-Psalm125.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\126-Psalm126.mp3" archivePath="AgpeyaHyms\Vespers\126-Psalm126.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\holyholyholy.mp3" archivePath="AgpeyaHyms\Vespers\holyholyholy.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\kerie_eleyson.mp3" archivePath="AgpeyaHyms\Vespers\kerie_eleyson.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\tenoo-oasht.mp3" archivePath="AgpeyaHyms\Vespers\tenoo-oasht.mp3" lastWriteTime="12/26/2012 11:39:34 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\thanksgivingprayer.mp3" archivePath="AgpeyaHyms\Vespers\thanksgivingprayer.mp3" lastWriteTime="12/26/2012 11:39:35 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\vespers_gospel.mp3" archivePath="AgpeyaHyms\Vespers\vespers_gospel.mp3" lastWriteTime="12/26/2012 11:39:35 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\AgpeyaHyms\Vespers\vespers_litanies.mp3" archivePath="AgpeyaHyms\Vespers\vespers_litanies.mp3" lastWriteTime="12/26/2012 11:39:36 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\icons\arabicDark.png" archivePath="icons\arabicDark.png" lastWriteTime="12/26/2012 11:36:54 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\icons\arabicLight.png" archivePath="icons\arabicLight.png" lastWriteTime="12/26/2012 11:36:54 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\icons\englishDark.png" archivePath="icons\englishDark.png" lastWriteTime="12/26/2012 11:36:54 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\icons\englishLight.png" archivePath="icons\englishLight.png" lastWriteTime="12/26/2012 11:36:54 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="12/26/2012 11:36:54 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/26/2012 11:58:30 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="12/26/2012 11:36:53 AM" />
+  <file source="C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="12/26/2012 11:36:54 AM" />
 </xapCache>
