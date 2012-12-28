@@ -109,6 +109,9 @@
     <Compile Include="EnglishA\Midnight.xaml.cs">
       <DependentUpon>Midnight.xaml</DependentUpon>
     </Compile>
+    <Compile Include="EnglishA\None.xaml.cs">
+      <DependentUpon>None.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EnglishA\Prime.xaml.cs">
       <DependentUpon>Prime.xaml</DependentUpon>
     </Compile>
@@ -117,9 +120,6 @@
     </Compile>
     <Compile Include="EnglishA\Sext.xaml.cs">
       <DependentUpon>Sext.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="EnglishA\None.xaml.cs">
-      <DependentUpon>None.xaml</DependentUpon>
     </Compile>
     <Compile Include="EnglishA\Veil.xaml.cs">
       <DependentUpon>Veil.xaml</DependentUpon>
@@ -232,6 +232,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="EnglishA\None.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="EnglishA\Prime.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -241,10 +245,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="EnglishA\Sext.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="EnglishA\None.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -341,21 +341,21 @@
     <Content Include="AgpeyaHyms\Colimpine\tenoo-oasht.mp3" />
     <Content Include="AgpeyaHyms\Colimpine\thanksgivingprayer.mp3" />
     <Content Include="AgpeyaHyms\Colimpine\welookfortheresurrrection.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\001-Psalm1.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\003-Psalm3.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\008-Psalm8.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\012-Psalm12.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\014-Psalm14.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\112-Psalm112.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\hail_to_you.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\holyGod.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\holyholyholy.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\kerie_eleyson.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\prime_gospel.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\prime_litanies.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\tenoo-oasht.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\thanksgivingprayer.mp3" />
-    <Content Include="AgpeyaHyms\First Hour\welookfortheresurrrection.mp3" />
+    <Content Include="AgpeyaHyms\Prime\001-Psalm1.mp3" />
+    <Content Include="AgpeyaHyms\Prime\003-Psalm3.mp3" />
+    <Content Include="AgpeyaHyms\Prime\008-Psalm8.mp3" />
+    <Content Include="AgpeyaHyms\Prime\012-Psalm12.mp3" />
+    <Content Include="AgpeyaHyms\Prime\014-Psalm14.mp3" />
+    <Content Include="AgpeyaHyms\Prime\112-Psalm112.mp3" />
+    <Content Include="AgpeyaHyms\Prime\hail_to_you.mp3" />
+    <Content Include="AgpeyaHyms\Prime\holyGod.mp3" />
+    <Content Include="AgpeyaHyms\Prime\holyholyholy.mp3" />
+    <Content Include="AgpeyaHyms\Prime\kerie_eleyson.mp3" />
+    <Content Include="AgpeyaHyms\Prime\prime_gospel.mp3" />
+    <Content Include="AgpeyaHyms\Prime\prime_litanies.mp3" />
+    <Content Include="AgpeyaHyms\Prime\tenoo-oasht.mp3" />
+    <Content Include="AgpeyaHyms\Prime\thanksgivingprayer.mp3" />
+    <Content Include="AgpeyaHyms\Prime\welookfortheresurrrection.mp3" />
     <Content Include="AgpeyaHyms\Midnight\holyholyholy.mp3" />
     <Content Include="AgpeyaHyms\Midnight\holyholyholy1.mp3" />
     <Content Include="AgpeyaHyms\Midnight\kerie_eleyson.mp3" />

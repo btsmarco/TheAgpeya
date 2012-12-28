@@ -17,17 +17,209 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Pivot Control-->
-        <controls:Pivot Title="MY APPLICATION">
+        <controls:Pivot Title="COPTIC AGPEYA">
             <!--Pivot item one-->
-            <controls:PivotItem Header="item1">
-                <Grid/>
+            <controls:PivotItem Header="Pslams">
+                <Grid x:Name="ContentPane2">
+                    <ScrollViewer>
+                        <Grid x:Name="ContentPane" Grid.Column="2">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="200" />
+                                <ColumnDefinition Width="200" />
+                            </Grid.ColumnDefinitions>
+
+                            <StackPanel Margin="12,0,0,0">
+                                <TextBlock Foreground="White" Width="213" Height="75"  TextWrapping="Wrap" FontSize="42" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" >
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 1"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="213" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 2"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="213" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 3"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" HorizontalAlignment="Left" FontSize="42">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 4"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left" VerticalAlignment="Center">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 5"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 6"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 8"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 11"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 12"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 14"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 15"/>
+
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Center">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 18"/>
+
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 24"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 26"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 62"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 66"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 69"/>
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 112"/>
+
+
+                                </TextBlock>
+                                <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Center">
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 142"/>
+
+                                </TextBlock>
+                            </StackPanel>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,-5,0,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top" Click="Psalm_130" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,139,0,0" VerticalAlignment="Top" Click="Psalm_131" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,221,0,0" VerticalAlignment="Top" Click="Psalm_132" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,293,0,0" VerticalAlignment="Top" Click="Psalm_133" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,370,0,0" VerticalAlignment="Top" Click="Psalm_136" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,447,0,0" VerticalAlignment="Top" Click="Psalm_137" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin=" 10,523,0,0" VerticalAlignment="Top" Click="Psalm_140" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,599,0,0" VerticalAlignment="Top" Click="Psalm_141" Height="8" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,675,0,0" VerticalAlignment="Top" Click="Psalm_145" Height="0" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,751,0,0" VerticalAlignment="Top" Click="Psalm_146" Height="0" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,827,0,0" VerticalAlignment="Top" Click="Psalm_147" Height="0" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,903,0,0" VerticalAlignment="Top" Click="Psalm_140" Height="0" Width="98" Grid.Column="1"/>
+
+
+                
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,975,0,0" VerticalAlignment="Top" Click="Psalm_131" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1047,0,0" VerticalAlignment="Top" Click="Psalm_132" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1119,0,0" VerticalAlignment="Top" Click="Psalm_133" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1191,0,0" VerticalAlignment="Top" Click="Psalm_136" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1263,0,0" VerticalAlignment="Top" Click="Psalm_137" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1335,0,0" VerticalAlignment="Top" Click="Psalm_140" Height="72" Width="98" Grid.Column="1"/>
+
+                        </Grid>
+                    </ScrollViewer>
+
+                   
+                
+    </Grid>
+
             </controls:PivotItem>
 
             <!--Pivot item two-->
-            <controls:PivotItem Header="item2">
-                <Grid/>
+            <controls:PivotItem Header="Gospel">
+                <Grid x:Name="ContentPanel" Grid.Row="1" Margin="0,0,0,0">
+                    <ScrollViewer>
+                        <StackPanel Margin="12,0,0,0">
+                            <TextBlock  Width="Auto" Height="93"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">  
+                            THE HOLY GOSPEL ACCORDING TO ST. LUKE (CH. 2: 25-32) 
+                            </Run>
+
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="92"  TextWrapping="Wrap" Foreground="#FFF01111" FontSize="42">
+
+                            Litanies  
+                            <LineBreak/>
+
+                            <Run> 
+                            
+                            </Run>
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="37"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            GRACIOUSLY ACCORD, O LORD 
+                            </Run>
+                            <LineBreak/>
+                           
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            THE TRISAGION 
+                            </Run>
+
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            INTRODUCTION TO THE CREED 
+                            </Run>
+
+
+
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="38"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            THE ORTHODOX CREED 
+                            </Run>
+                            <LineBreak/>
+                            
+
+                            
+                            <LineBreak/>
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            HOLY HOLY HOLY 
+                            </Run>
+
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            ABSOLUTION 
+                            </Run>
+
+                            </TextBlock>
+                            <TextBlock  Width="Auto" Height="36"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            THE CONCLUSION OF EVERY HOUR 
+                            </Run>
+                            <LineBreak/>
+
+                            </TextBlock>
+
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
             </controls:PivotItem>
         </controls:Pivot>
+
     </Grid>
-    
-</phone:PhoneApplicationPage>
+
+</phone:PhoneApplicationPage> 
