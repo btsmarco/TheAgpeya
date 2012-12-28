@@ -112,20 +112,20 @@
     <Compile Include="EnglishA\None.xaml.cs">
       <DependentUpon>None.xaml</DependentUpon>
     </Compile>
-    <Compile Include="EnglishA\Prime.xaml.cs">
-      <DependentUpon>Prime.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="EnglishA\Terce.xaml.cs">
-      <DependentUpon>Terce.xaml</DependentUpon>
+    <Compile Include="EnglishA\Vespers.xaml.cs">
+      <DependentUpon>Vespers.xaml</DependentUpon>
     </Compile>
     <Compile Include="EnglishA\Sext.xaml.cs">
       <DependentUpon>Sext.xaml</DependentUpon>
     </Compile>
+    <Compile Include="EnglishA\Prime.xaml.cs">
+      <DependentUpon>Prime.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EnglishA\Tence.xaml.cs">
+      <DependentUpon>Tence.xaml</DependentUpon>
+    </Compile>
     <Compile Include="EnglishA\Veil.xaml.cs">
       <DependentUpon>Veil.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="EnglishA\Vespers.xaml.cs">
-      <DependentUpon>Vespers.xaml</DependentUpon>
     </Compile>
     <Compile Include="English\Compline.xaml.cs">
       <DependentUpon>Compline.xaml</DependentUpon>
@@ -236,11 +236,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="EnglishA\Prime.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="EnglishA\Terce.xaml">
+    <Page Include="EnglishA\Vespers.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -248,11 +244,15 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="EnglishA\Veil.xaml">
+    <Page Include="EnglishA\Prime.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="EnglishA\Vespers.xaml">
+    <Page Include="EnglishA\Tence.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EnglishA\Veil.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
