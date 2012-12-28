@@ -30,5 +30,10 @@ namespace CopticAgpeya.Arabic
         {
             NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
         }
+
+        private void Settings(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Settings.xaml", UriKind.Relative));
+        }
     }
 }

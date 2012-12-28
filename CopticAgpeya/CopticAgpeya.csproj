@@ -103,9 +103,6 @@
     <Compile Include="EnglishA\Compline.xaml.cs">
       <DependentUpon>Compline.xaml</DependentUpon>
     </Compile>
-    <Compile Include="EnglishA\Other.xaml.cs">
-      <DependentUpon>Other.xaml</DependentUpon>
-    </Compile>
     <Compile Include="EnglishA\Midnight.xaml.cs">
       <DependentUpon>Midnight.xaml</DependentUpon>
     </Compile>
@@ -221,10 +218,6 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="EnglishA\Compline.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="EnglishA\Other.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

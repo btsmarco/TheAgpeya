@@ -131,6 +131,20 @@ namespace CopticAgpeya.Audio_Agpeya
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
             objMediaPlayerLauncher.Show();
         }
+
+        private void Settings(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Settings.xaml", UriKind.Relative));
+        }
+        private void arabicLight(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/ArMainPage.xaml", UriKind.Relative));
+        }
+
+        private void About(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
+        }
     }
 }
 

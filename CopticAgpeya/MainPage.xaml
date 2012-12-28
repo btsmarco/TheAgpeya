@@ -75,9 +75,8 @@
                         <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="None" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="ANone" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="None_ClickA" />
                         <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Vespers" FontSize="38" Height="85" HorizontalAlignment="Left"  Name="AVespers" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Vespers_ClickA" />
                         <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Compline" FontSize="38" Height="85" HorizontalAlignment="Left" Name="ACompline" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Compline_ClickA" />
-                        <!--Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Veil" FontSize="38" Height="85" HorizontalAlignment="Left" Name="Veil" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Veil_Click" /-->
+                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Veil" FontSize="38" Height="85" HorizontalAlignment="Left" Name="Veil" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Veil_ClickA" />
                         <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Midnight" FontSize="38" Height="85" HorizontalAlignment="Left" Name="AMidnight" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Midnight_ClickA" />
-                        <Button FontFamily="{StaticResource PhoneFontFamilySemiLight}"  BorderBrush="Transparent" Content="Other Prayers" FontSize="38" Height="85" HorizontalAlignment="Left" Name="AOther" VerticalAlignment="Top" Width="450" HorizontalContentAlignment="Left" Click="Other_ClickA" />
                     </StackPanel>
                 </ScrollViewer>
                

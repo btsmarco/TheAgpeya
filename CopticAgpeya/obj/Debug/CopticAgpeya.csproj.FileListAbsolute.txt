@@ -76,11 +76,10 @@ C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\JeffWilcox.Pho
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\Bin\Debug\JeffWilcox.PhoneThemeManager.pdb
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\Settings.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Compline.g.cs
-C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Other.g.cs
-C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Terce.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Sext.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\None.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Midnight.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Veil.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Vespers.g.cs
 C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Prime.g.cs
+C:\Users\Beshoy\Documents\GitHub\TheAgpeya\CopticAgpeya\obj\Debug\EnglishA\Tence.g.cs

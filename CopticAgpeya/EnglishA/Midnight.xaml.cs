@@ -19,5 +19,10 @@ namespace CopticAgpeya.EnglishA
         {
             InitializeComponent();
         }
+
+        private void Settings(object sender, EventArgs e)
+        {
+            NavigationService.Navigate(new Uri("/Settings.xaml", UriKind.Relative));
+        }
     }
 }

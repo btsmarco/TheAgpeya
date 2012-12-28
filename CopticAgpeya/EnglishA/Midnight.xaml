@@ -1102,6 +1102,7 @@
             <shell:ApplicationBarIconButton IconUri="/icons/arabicdark.png" Text="arabic" />
             <shell:ApplicationBar.MenuItems>
                 <shell:ApplicationBarMenuItem Text="About"  />
+                <shell:ApplicationBarMenuItem Text="Settings" Click="Settings" />
             </shell:ApplicationBar.MenuItems>
         </shell:ApplicationBar>
     </phone:PhoneApplicationPage.ApplicationBar>
