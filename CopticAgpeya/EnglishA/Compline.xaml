@@ -184,15 +184,15 @@
                                 </TextBlock>
 
                             </StackPanel>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,-8,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,57,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,123,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,189,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,254,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,320,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,386,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,449,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,515,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,-8,-59,0" VerticalAlignment="Top" Click="HolyGospel" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,57,-59,0" VerticalAlignment="Top" Click="Lit" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,123,-59,0" VerticalAlignment="Top" Click="Accord" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,189,-59,0" VerticalAlignment="Top" Click="Trans" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,254,-59,0" VerticalAlignment="Top" Click="Intro" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,320,-59,0" VerticalAlignment="Top" Click="Creed" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,386,-59,0" VerticalAlignment="Top" Click="Holy" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,449,-59,0" VerticalAlignment="Top" Click="ABS" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,515,-59,0" VerticalAlignment="Top" Click="Con" Height="72" Width="98" Grid.Column="1" />
                         </Grid>
 
                     </ScrollViewer>

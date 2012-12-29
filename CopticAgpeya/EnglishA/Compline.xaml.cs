@@ -145,6 +145,66 @@ namespace CopticAgpeya.Audio_Agpeya
         {
             NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
         }
+
+        private void Lit(object sender, RoutedEventArgs e)
+        {
+            MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Colimpine/compline_litanies.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Location = MediaLocationType.Install;
+            objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
+            objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
+            objMediaPlayerLauncher.Show();
+        }
+
+        private void HolyGospel(object sender, RoutedEventArgs e)
+        {
+            MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Colimpine/compline_gospel.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Location = MediaLocationType.Install;
+            objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
+            objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
+            objMediaPlayerLauncher.Show();
+        }
+
+        private void Accord(object sender, RoutedEventArgs e)
+        {
+            MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Colimpine/--------------", UriKind.Relative);
+            objMediaPlayerLauncher.Location = MediaLocationType.Install;
+            objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
+            objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
+            objMediaPlayerLauncher.Show();
+        }
+
+        private void Trans(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Intro(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Holy(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ABS(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Con(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Creed(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
 

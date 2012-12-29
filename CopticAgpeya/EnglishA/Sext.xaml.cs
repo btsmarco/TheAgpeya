@@ -39,7 +39,7 @@ namespace CopticAgpeya.EnglishA
         {
 
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/Prime/001-Psalm1.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/Sext/--------------", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
@@ -57,7 +57,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_131(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Prime/003-Psalm3.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Prime/0--------", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
@@ -94,7 +94,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_137(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Prime/008-Psalm8.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Sext/083-Psalm83.mp3", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
@@ -112,7 +112,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_141(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/Prime/012-Psalm12.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/Prime/--------------", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
@@ -121,7 +121,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_145(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/None/112-Psalm112.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/None/086-Psalm86.mp3", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
@@ -130,7 +130,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_146(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Colimpine/---------------------", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Sext/---------------------", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
@@ -139,7 +139,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_147(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/None/-----------", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Sext/092-Psalm92.mp3", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;

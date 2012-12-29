@@ -17,7 +17,7 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Pivot Control-->
-        <controls:Pivot Title="COPTIC AGPEYA">
+        <controls:Pivot Title="Vespers">
             <!--Pivot item one-->
             <controls:PivotItem Header="Pslams">
                 <Grid x:Name="ContentPane2">
@@ -91,10 +91,11 @@
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,751,0,0" VerticalAlignment="Top" Click="Psalm_146" Height="72" Width="98" Grid.Column="1"/>
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,827,0,0" VerticalAlignment="Top" Click="Psalm_147" Height="72" Width="98" Grid.Column="1"/>
                         </Grid>
+                        
                     </ScrollViewer>
 
 
-
+                    
                 </Grid>
 
             </controls:PivotItem>
