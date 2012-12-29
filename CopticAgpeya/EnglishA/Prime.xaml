@@ -121,16 +121,16 @@
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,675,0,0" VerticalAlignment="Top" Click="Psalm_145" Height="72" Width="98" Grid.Column="1"/>
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,751,0,0" VerticalAlignment="Top" Click="Psalm_146" Height="72" Width="98" Grid.Column="1"/>
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,827,0,0" VerticalAlignment="Top" Click="Psalm_147" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,903,0,0" VerticalAlignment="Top" Click="Psalm_140" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,903,0,0" VerticalAlignment="Top" Click="Psalm_24" Height="72" Width="98" Grid.Column="1"/>
 
 
                 
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,975,0,0" VerticalAlignment="Top" Click="Psalm_131" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1047,0,0" VerticalAlignment="Top" Click="Psalm_132" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1119,0,0" VerticalAlignment="Top" Click="Psalm_133" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1191,0,0" VerticalAlignment="Top" Click="Psalm_136" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1263,0,0" VerticalAlignment="Top" Click="Psalm_137" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1335,0,0" VerticalAlignment="Top" Click="Psalm_140" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,975,0,0" VerticalAlignment="Top" Click="Psalm_26" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1047,0,0" VerticalAlignment="Top" Click="Psalm_62" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1119,0,0" VerticalAlignment="Top" Click="Psalm_66" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1191,0,0" VerticalAlignment="Top" Click="Psalm_69" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1263,0,0" VerticalAlignment="Top" Click="Psalm_112" Height="72" Width="98" Grid.Column="1"/>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,1335,0,0" VerticalAlignment="Top" Click="Psalm_142" Height="72" Width="98" Grid.Column="1"/>
 
                         </Grid>
                     </ScrollViewer>
@@ -145,47 +145,55 @@
             <controls:PivotItem Header="Gospel">
                 <Grid x:Name="ContentPanel" Grid.Row="1" Margin="0,0,0,0">
                     <ScrollViewer>
-                        <StackPanel Margin="12,0,0,0">
-                            <TextBlock  Width="Auto" Height="93"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">  
-                            THE HOLY GOSPEL ACCORDING TO ST. LUKE (CH. 2: 25-32) 
-                            </Run>
-
-                            </TextBlock>
-                            <TextBlock  Width="Auto" Height="92"  TextWrapping="Wrap" Foreground="#FFF01111" FontSize="42">
-
-                            Litanies  
-                            <LineBreak/>
-
-                            <Run> 
+                        <Grid x:Name="ContentPane3" Grid.Column="2" Height="598">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="361" />
+                                <ColumnDefinition Width="39" />
+                            </Grid.ColumnDefinitions>
                             
+                            
+                            <StackPanel Margin= "12,0,0,0">
+                            
+                                
+                                <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontSize="32" FontFamily="Segoe WP Light">  
+                            THE HOLY GOSPEL  
+                            </Run>
+
+                            </TextBlock>
+                            
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap"> 
+                                <Run Foreground="{StaticResource PhoneAccentBrush}" FontSize="32" FontFamily="Segoe WP Light">
+
+                            LITANIES  
                             </Run>
                             <LineBreak/>
+                                
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="37"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
-                            GRACIOUSLY ACCORD, O LORD 
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontSize="32" FontFamily="Segoe WP Light">
+                            GRACIOUSLY ACCORD
                             </Run>
                             <LineBreak/>
                            
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontFamily="Segoe WP Light" FontSize="32">
                             THE TRISAGION 
                             </Run>
 
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
-                            INTRODUCTION TO THE CREED 
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontSize="32" FontFamily="Segoe WP Light">
+                            INTRO TO THE CREED 
                             </Run>
 
 
 
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="38"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontFamily="Segoe WP Light" FontSize="32">
                             THE ORTHODOX CREED 
                             </Run>
                             <LineBreak/>
@@ -194,28 +202,40 @@
                             
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap" FontFamily="Segoe WP Light">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontSize="32">
                             HOLY HOLY HOLY 
                             </Run>
 
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontFamily="Segoe WP Light" FontSize="32">
                             ABSOLUTION 
                             </Run>
 
                             </TextBlock>
-                            <TextBlock  Width="Auto" Height="36"  TextWrapping="Wrap">
-                            <Run Foreground="{StaticResource PhoneAccentBrush}">
-                            THE CONCLUSION OF EVERY HOUR 
+                            <TextBlock  Width="Auto" Height="65"  TextWrapping="Wrap">
+                            <Run Foreground="{StaticResource PhoneAccentBrush}" FontSize="32" FontFamily="Segoe WP Light">
+                            THE CONCLUSION 
                             </Run>
                             <LineBreak/>
 
                             </TextBlock>
-
+                            
                         </StackPanel>
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,-8,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,57,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,123,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,189,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,254,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,320,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,386,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,449,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                            <Button Content="Play" HorizontalAlignment="Left" Margin="0,515,-59,0" VerticalAlignment="Top" Click="Button_Click_1" Height="72" Width="98" Grid.Column="1" />
+                        </Grid>
+                        
                     </ScrollViewer>
+                        
                 </Grid>
             </controls:PivotItem>
         </controls:Pivot>

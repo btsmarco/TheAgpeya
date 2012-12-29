@@ -105,12 +105,7 @@ namespace CopticAgpeya.EnglishA
         }
         private void Psalm_145(object sender, RoutedEventArgs e)
         {
-            MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/None/112-Psalm112.mp3", UriKind.Relative);
-            objMediaPlayerLauncher.Location = MediaLocationType.Install;
-            objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
-            objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
-            objMediaPlayerLauncher.Show();
+            
         }
         private void Psalm_146(object sender, RoutedEventArgs e)
         {
@@ -143,6 +138,46 @@ namespace CopticAgpeya.EnglishA
         private void About(object sender, EventArgs e)
         {
             NavigationService.Navigate(new Uri("/about.xaml", UriKind.Relative));
+        }
+
+        private void Psalm_24(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Psalm_26(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Psalm_62(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Psalm_69(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Psalm_112(object sender, RoutedEventArgs e)
+        {
+            MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
+            objMediaPlayerLauncher.Media = new Uri("AgpeyaHyms/Prime/112-Psalm112.mp3", UriKind.Relative);
+            objMediaPlayerLauncher.Location = MediaLocationType.Install;
+            objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
+            objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
+            objMediaPlayerLauncher.Show();
+        }
+
+        private void Psalm_142(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Psalm_66(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

@@ -115,7 +115,7 @@ namespace CopticAgpeya.EnglishA
         private void Psalm_146(object sender, RoutedEventArgs e)
         {
             MediaPlayerLauncher objMediaPlayerLauncher = new MediaPlayerLauncher();
-            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/Colimpine/---------------------", UriKind.Relative);
+            objMediaPlayerLauncher.Media = new Uri("/AgpeyaHyms/None/---------------------", UriKind.Relative);
             objMediaPlayerLauncher.Location = MediaLocationType.Install;
             objMediaPlayerLauncher.Controls = MediaPlaybackControls.Pause | MediaPlaybackControls.Stop | MediaPlaybackControls.All;
             objMediaPlayerLauncher.Orientation = MediaPlayerOrientation.Landscape;
