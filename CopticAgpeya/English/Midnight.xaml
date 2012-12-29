@@ -23,7 +23,7 @@
                 <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             Then the worshipper says :
                             <LineBreak/>
                             Arise, you, O children of the light, to praise the Lord of Hosts, that He may grant us the salvation of our souls. When we stand in the flesh before You, take away from our minds the sleep of forgetfulness, and grant us alertness, in order that we understand how to stand up before You at the time of prayer, and send up to You the appropriate doxology, and win the forgiveness of our many sins.
@@ -33,7 +33,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 133 
                             </Run>
@@ -56,7 +56,7 @@
 
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
 		
                             The First Watch 
@@ -70,7 +70,7 @@
                             From the Psalms of our father David the prophet and the king, may his blessings be upon us all. Amen.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 3 
                             </Run>
@@ -80,7 +80,7 @@
                             With my voice I cried unto the Lord, and He heard me out of His holy mountain. I laid down and slept; and I arose; for the Lord is He who supports me. I will not be afraid of ten thousands of people, who surround me; who have risen upon me. Rise, O Lord, save me, O my God: for You have smitten all who are enemies to me without cause. The teeth of the sinners You have broken. Salvation is the Lord's, and His blessing is upon His people. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 6 
                             </Run>
@@ -90,7 +90,7 @@
                             Depart away from me, all who do iniquity; for the Lord has heard the voice of my weeping. The Lord has heard my petition; the Lord has accepted my prayer. All my enemies shall be put to shame and greatly troubled: they shall be turned back and put to shame speedily. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 12 
                             </Run>
@@ -100,7 +100,7 @@
                             Look, hearken to me, O Lord my God: enlighten my eyes, lest I sleep in death; lest my enemy say, “I have prevailed against him”: those who distress me will rejoice if ever I stumble. But I have hoped in Your mercy; my heart will rejoice in Your salvation. I will praise the Lord Who has done good to me, and I will sing to the name of the Lord Most High. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 69 
                             </Run>
@@ -108,7 +108,7 @@
                             O God, be mindful of my help: make haste, O Lord, to help me. Let them be ashamed and be scorned, those who seek my soul: let them be turned backward and put to shame, those who wish to do evil unto me. Let those who say to me, “Aha, aha,” be turned back in shame immediately. Let all who seek You exult and be glad in You: and let those who love Your salvation say continually, “Let the Lord be magnified.” But I am poor and weak; O God, help me: You are my Helper and Savior, O Lord, do not delay. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 85 
                             </Run>
@@ -122,7 +122,7 @@
                             O God, transgressors have risen up against me, and an assembly of violent men have sought my soul; and have not, at first, set You before them. But You, O Lord God, are compassionate and merciful, long-suffering, and abundant in mercy and true. Look down upon me, and have mercy on me: give strength to Your servant, and save the son of Your handmaid. Establish with me a sign for good; and let those who hate me see and be ashamed; because You, O Lord, have helped me, and com­forted me. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 90 
                             </Run>
@@ -134,7 +134,7 @@
                             For he has hoped in Me, and I shall deliver him: I shall protect him, because he has known My name. He shall beseech me, and I shall hear him: I am with him in affliction; and I shall deliver him, and glorify him. I shall satisfy him with length of days, and show him My salvation. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 116 
                             </Run>
@@ -142,7 +142,7 @@
                             Praise the Lord, all you nations: let all the peoples praise Him. For His mercy has been established upon us, and the truth of the Lord endures forever. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 117 
                             </Run>
@@ -160,7 +160,7 @@
                             This is the day which the Lord has made: let us rejoice and be glad in it. O Lord, save us: O Lord, ease our ways. Blessed is He who comes in the name of the Lord: we have blessed you from the house of the Lord. God the Lord has shined upon us: ordain a feast with those that reach the horns of the altar. You are my God, and I will give thanks to You: You are my God, and I will exalt You. I will give thanks to You, O Lord, for You have heard me, and have become unto me a salvation. Give thanks to the Lord; for He is good: for His mercy endures forever. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (I) 
                             </Run>
@@ -172,7 +172,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (II) 
                             </Run>
@@ -184,7 +184,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (III) 
                             </Run>
@@ -196,7 +196,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (IV) 
                             </Run>
@@ -208,7 +208,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (V) 
                             </Run>
@@ -220,7 +220,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (VI) 
                             </Run>
@@ -232,7 +232,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (VII) 
                             </Run>
@@ -244,7 +244,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (VIII) 
                             </Run>
@@ -256,7 +256,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (IX) 
                             </Run>
@@ -268,7 +268,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (X) 
                             </Run>
@@ -280,7 +280,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XI) 
                             </Run>
@@ -292,7 +292,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XII) 
                             </Run>
@@ -304,7 +304,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XIII) 
                             </Run>
@@ -316,7 +316,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XIV) 
                             </Run>
@@ -328,7 +328,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XV) 
                             </Run>
@@ -340,7 +340,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XVI) 
                             </Run>
@@ -352,7 +352,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XVII) 
                             </Run>
@@ -364,7 +364,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XVIII) 
                             </Run>
@@ -376,7 +376,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XIX) 
                             </Run>
@@ -388,7 +388,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XX) 
                             </Run>
@@ -400,7 +400,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XXI) 
                             </Run>
@@ -412,7 +412,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 118 (XXII) 
                             </Run>
@@ -424,7 +424,7 @@
                             Glory to You, the Lover of mankind.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             THE HOLY GOSPEL ACCORDING TO ST. MATTHEW (CH. 25:1-13) 
                             </Run>
@@ -483,7 +483,7 @@
 
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             Then the worshipper prays:
 
@@ -493,7 +493,7 @@
                             (Lord have mercy) 41 times
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             HOLY HOLY HOLY 
                             </Run>
@@ -507,7 +507,7 @@
                             Our Father Who art in heaven ...
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             THE CONCLUSION OF EVERY HOUR 
                             </Run>
@@ -526,7 +526,7 @@
                 <Grid x:Name="ContentPanel1" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             Then the worshipper says :
 
                             Arise, you, O children of the light, to praise the Lord of Hosts, that He may grant us the salvation of our souls. When we stand in the flesh before You, take away from our minds the sleep of forgetfulness, and grant us alertness, in order that we understand how to stand up before You at the time of prayer, and send up to You the appropriate doxology, and win the forgiveness of our many sins.
@@ -537,7 +537,7 @@
                             <LineBreak/>
                             </TextBlock>
 
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 133 
                             </Run>
@@ -569,7 +569,7 @@
                             <LineBreak/>
                             </TextBlock>
 
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 119 
                             </Run>
@@ -577,7 +577,7 @@
                             In my own affliction I cried to You, O Lord, and You heard me. O Lord, You shall deliver my soul from unjust lips, and from a deceitful tongue. What should be given to you, and what should be added to you, a crafty tongue?! The weapons of the mighty are sharpened with coals of the desert! Woe to me, that my sojourning is prolonged; I have lived among the dwellings of Kedar. My soul has long been a sojourner; I was peaceable among those who hated peace; when I spoke to them. they warred against me without a cause. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 120 
                             </Run>
@@ -585,7 +585,7 @@
                             I lifted up my eyes to the mountains, from where my help shall come. My help shall come from the Lord, who made the heaven and the earth. He will not let your foot be moved; and your keeper will not slumber. Behold, He who keeps Israel shall not slumber nor sleep. The Lord shall keep you: the Lord shall cast a shelter upon your right hand. The sun shall not burn you by day, neither the moon by night. The Lord shall preserve you from every evil: the Lord shall keep your soul. The Lord shall keep your coming in and your going out, from this time and forever. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 121 
                             </Run>
@@ -595,7 +595,7 @@
                             Ask for the things which are for the peace of Jerusalem: and for the prosperity to those who love you. Let peace be within your strength, and prosperity in your heavy towers. For the sake of my brothers and my companions, I have indeed spoken peace concerning you. Because of the house of the Lord our God, I have diligently sought good things for you. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 122 
                             </Run>
@@ -603,7 +603,7 @@
                             Unto You I have lifted up my eyes, O You who dwell in heaven. Behold as the eyes of servants are unto to the hands of their masters, and as the eyes of a maidservant to the hands of her mistress; so our eyes are toward the Lord our God until He has pity on us. Have mercy on us, O Lord, have mercy on us: for we are exceedingly filled with contempt. And our soul has been exceedingly filled: give the reproach to those who prosper, and contempt to the proud. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 123 
                             </Run>
@@ -611,7 +611,7 @@
                             If it had not been that the Lord is among us, let Israel say; if it had not been that the Lord is among us when men rose up against us, then they would have swallowed us up alive, when their wrath was kindled against us. Then the water would have drowned us. Our soul would have gone under the raging flood; then our soul would have gone under the unlimited water. Blessed be the Lord, who has not given us for a prey to their teeth. Our soul has been delivered as a sparrow from the snare of the hunters. The snare has broken, and we were delivered. Our help is in the name of the Lord, who made heaven and earth. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 124 
                             </Run>
@@ -621,7 +621,7 @@
                             Do good, O Lord, to those who are good, and to those who are upright in their heart. But those who turn to stumbles, the Lord will banish with the workers of iniquity; peace be upon Israel. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALMS 125 
                             </Run>
@@ -629,7 +629,7 @@
                             When the Lord brought back the captivity of Zion, we became as those who were comforted. Then our mouth was filled with joy, and our tongue with exultation. Then they shall say among the Gentiles, “The Lord has done great things among them.” The Lord has done great things for us, we became joyful. O Lord, You shall bring back our captivity, as the streams in the south. Those who sow in tears shall reap in joy. They went on and wept as they were carrying their seeds; but they shall surely come with exultation, carrying their sheaves. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALMS 126 
                             </Run>
@@ -639,7 +639,7 @@
                             Behold, children are the inheritance of the Lord, the reward of the fruit of the womb. As arrows in the hand of a mighty man, so are the children of one's youth. Blessed is the man who has his quiver full of them; they shall not be ashamed when they speak with their enemies in the gates. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALMS 127 
                             </Run>
@@ -647,7 +647,7 @@
                             Blessed are all who fear the Lord; who walk in his ways. You shall eat the fruit of your labors: you shall be blessed, and goodness shall be unto you. Your wife shall be as a fruitful vine on the sides of your house, your children as young olive-plants round about your table. Behold, thus shall the man be blessed, who fears the Lord. The Lord shall bless you out of Zion; and you shall see the good things of Jerusalem all the days of your life. And you shall see the children of your children. Peace be upon Israel. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALMS 128 
                             </Run>
@@ -655,7 +655,7 @@
                             Many times they have warred against me from my youth, let Israel now say. Many times they have warred against me from my youth, and yet they have not prevailed against me. The sinners scourged me on my back, and prolonged their iniquity. The Lord is righteous; He has broken the necks of sinners. Let all who hate Zion be put to shame and turned back. Let them be as the grass of the house-tops, which withers before it is plucked up, with which the reaper does not fill his hand, nor he who gathers up sheaves, his bosom. Neither do they who pass by say, “The blessing of the Lord be upon you, we have blessed you in the name of the Lord.” ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             THE HOLY GOSPEL ACCORDING TO ST. LUKE (CH. 7 : 36-50)
                             </Run>
@@ -671,7 +671,7 @@
                             We worship You O Christ with Your Good Father and the Holy Spirit, for You have come and saved us.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             1.  Give me, O Lord, many fountains of tears, as You gave, in the past, the sinful woman. Make me worthy to wash Your Feet which liberated me from the path of straying, and to offer you a precious fragrant oil, and gain, through repentance, a pure life, so that I may hear that voice full of joy: “Your faith has saved you.”
 
@@ -680,7 +680,7 @@
 
                             Glory to the Father, and the Son, and the Holy Spirit.
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             2.  When I realize my many wicked deeds, and the thought of that awesome judgment comes to my heart, a tremble takes hold of me, and I take refuge in You, O God, the Lover of mankind. So do not turn away Your face from me, I entreat You, Who alone are without sin. Grant humbleness to my poor soul before the end comes, and save me.
 
@@ -691,7 +691,7 @@
                             Now and forever and unto the ages of all ages, Amen.
 
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             3.  The Heavens bless you, O full of grace, the Bride who was never married. And we, too, glorify your incomprehensible giving birth. O Theotokos, the mother of mercy and salvation, intercede for the salvation of our souls.
 
@@ -702,7 +702,7 @@
                             Now and forever and unto the ages of all ages, Amen.
 
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             4.  O Heavenly King, the Comforter, the Spirit of truth, who is present in all places and fills all, the treasury of good things and the Life-Giver, graciously come, and dwell in us and purify us from all defilement, O Good One, and save our souls.
 
@@ -713,7 +713,7 @@
                             Glory to the Father, and the Son, and the Holy Spirit.
 
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             5.  Just as You were with Your disciples, O Savior, and gave them peace, graciously come also and be with us, and grant us Your peace, and save us, and deliver our souls.
 
@@ -724,7 +724,7 @@
                             Now and forever and unto the ages of all ages, Amen.
 
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             6.  Whenever we stand in Your holy sanctuary, we are considered standing in heaven. O Theotokos, you are the gate of heaven, open for us the gate of mercy.
 
@@ -735,7 +735,7 @@
                             (Lord have mercy) 41 times
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             HOLY HOLY HOLY 
                             </Run>
@@ -749,7 +749,7 @@
                             Our Father Who art in heaven ...
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             THE CONCLUSION OF EVERY HOUR
                             </Run>

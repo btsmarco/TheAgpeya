@@ -87,7 +87,7 @@
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,599,0,0" VerticalAlignment="Top" Click="Psalm_141" Height="72" Width="98" Grid.Column="1"/>
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,675,0,0" VerticalAlignment="Top" Click="Psalm_145" Height="72" Width="98" Grid.Column="1"/>
                             <Button Content="Play" HorizontalAlignment="Left" Margin="10,751,0,0" VerticalAlignment="Top" Click="Psalm_146" Height="72" Width="98" Grid.Column="1"/>
-                            <Button Content="Play" HorizontalAlignment="Left" Margin="10,827,0,0" VerticalAlignment="Top" Click="Psalm_147" Height="72" Width="98" Grid.Column="1"/>
+                            
                             
 
 

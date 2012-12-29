@@ -24,7 +24,7 @@
                 <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
                     <ScrollViewer>
                         <StackPanel >
-                            <TextBlock Foreground="White" Margin="12,0,0,0" Width="Auto" Height="Auto" TextWrapping="Wrap">
+                            <TextBlock  Margin="12,0,0,0" Width="Auto" Height="Auto" TextWrapping="Wrap">
 					         <Run Foreground="{StaticResource PhoneAccentBrush}">
 						        INTRODUCTION TO EVERY HOUR
 					        </Run>
@@ -46,7 +46,7 @@
 						        Our Father Who art in heaven; hallowed be Thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread.  And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil, in Christ Jesus our Lord. For Thine is the kingdom, the power and the glory, forever. Amen.
 					        <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                         
 					        <Run Foreground="{StaticResource PhoneAccentBrush}">
  						        THE PRAYER OF THANKSGIVING 
@@ -63,7 +63,7 @@
 					        And lead us not into temptation, but deliver us from evil, by the grace, compassion and love of mankind, of Your Only-Begotten Son, our Lord, God and Savior, Jesus Christ, through Whom the glory, the honor, the dominion, and the adoration are due unto You, with Him, and the Holy Spirit, the Life-Giver, Who is of one essence with You, now and at all times, and unto the ages of all ages. Amen.
 					        <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 					        <Run Foreground="{StaticResource PhoneAccentBrush}">
 						        PSALM 50 
 					        </Run>

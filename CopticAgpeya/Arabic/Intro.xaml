@@ -24,7 +24,7 @@
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0" >
 
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									مقدمة كل ساعة
 								</Run>
@@ -35,7 +35,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									الصلاة الربانية
 								</Run>
@@ -45,7 +45,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									صلاة الشكر
 								</Run>
@@ -57,7 +57,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									المزمور الخمسون
 								</Run>

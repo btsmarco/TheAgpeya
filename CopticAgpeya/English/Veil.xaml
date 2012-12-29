@@ -23,7 +23,7 @@
                 <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                          
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                          
 								
 									The blessed prayer of the veil, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
 									
@@ -44,7 +44,7 @@
 									Many say, Who can show us the good things? The light of Your countenance, O Lord, has been shined upon us. You have given gladness to my heart: they have been multiplied with the fruit of their wheat and wine and oil. I shall both lie down in peace and sleep: for You alone, O Lord, have caused me to dwell in hope. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 6 
 								</Run>
@@ -55,7 +55,7 @@
 									Depart away from me, all who do iniquity; for the Lord has heard the voice of my weeping. The Lord has heard my petition; the Lord has accepted my prayer. All my enemies shall be put to shame and greatly troubled: they shall be turned back and put to shame speedily. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 8 
 								</Run>
@@ -66,7 +66,7 @@
 									For I will regard the heavens, the work of Your fingers; the moon and stars You have established. What is man, that You have been mindful of him? Or the son of man, that You have visited him? You made him a little less than angels, You have crowned him with glory and honor; and You have set him upon the works of Your hands: You have put everything under his feet: all the sheep and oxen, and the beasts of the field, and the birds of the sky, and the fish of the sea that pass through the paths of the seas. O Lord our Lord, how wonderful Your name became in all the earth! ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 12
 								</Run>
@@ -77,7 +77,7 @@
 									Look, hearken to me, O Lord my God: enlighten my eyes, lest I sleep in death; lest my enemy say, ԉ have prevailed against himԺ those who distress me will rejoice if ever I stumble. But I have hoped in Your mercy; my heart will rejoice in Your salvation. I will praise the Lord Who has done good to me, and I will sing to the name of the Lord Most High. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 15 
 								</Run>
@@ -88,7 +88,7 @@
 									I will bless the Lord who has given me understanding; my reins too have instructed me even till the night. I foresaw the Lord always before me; He is on my right hand, that I should not be moved. Therefore my heart rejoiced and my tongue exulted; moreover also my flesh shall live in hope: because You shall not leave my soul in Hades, neither shall You suffer Your holy One to see corruption. You have made known to me the ways of life; You will fill me with joy with Your face: delight is in Your right hand forever.  ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 24 
 								</Run>
@@ -103,7 +103,7 @@
 									Look upon me, and have mercy on me; for I am an only child and poor. The afflictions of my heart have been multiplied; bring me out of my troubles. Behold my lowliness and my toil; and forgive all my sins. Look upon my enemies; for they have multiplied; and they have hated me with an unjust hatred. Keep my soul, and deliver me: Let me not be put to shame; for I have hoped in You. The harmless and upright joined themselves to me: for I waited for You, O Lord. Deliver Israel, O God, out of all his afflictions. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 26 
 								</Run>
@@ -116,7 +116,7 @@
 									Hear, O Lord, my voice which I have uttered aloud: have mercy on me, and hearken to me. For You are He to whom my heart said, ԉ have sought Your face: Your face, O Lord, I will seek.ԠDo not turn away Your face from me, do not reject Your servant in anger: be a helper to me, and do not forsake me; and do not overlook me, O God my Savior. For my father and my mother have forγaken me, but the Lord has accepted me unto Himself. Set a law for me, O Lord, in Your ways, and guide me in a right path, because of my enemies. Do not deliver me over to the souls of those who afflict me; for unΪust witnesses have risen up against me, and injustice has lied to itself. I believe that I shall see the goodness of the Lord in the land of the living. Wait for the Lord: be of good cheer and let your heart be strengthened: and wait for the Lord. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 66 
 								</Run>
@@ -125,7 +125,7 @@
 									God shall pity us, and bless us; and reveal His face upon us and have mercy on us. That Your way may be known on the earth, Your salvation among all nations. Let the peoples, O God, give praise to You; let all the peoples give praise to You. Let the nations rejoice and exult, for You will judge peoples in equity, and guide nations on the earth. Let the peoples, O God, give praise to You; let all the peoples give praise to You. The earth has yielded its fruit. God, our God, shall bless us; and all the ends of the earth shall fear Him. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 69 
 								</Run>
@@ -134,7 +134,7 @@
 									O God, be mindful to my help; make haste, O Lord, to help me. Let them be ashamed and be scorned, those who seek my soul: let them be turned backward and put to shame, those who wish to do evil unto me. Let those who say to me, ԁha, aha,Ԡbe turned back in shame immediately. Let all who seek You exult and be glad in You: and let those who love Your salvation say continually, Ԍet the Lord be magnified.ԠBut I am poor and weak; O God, help me: You are my Helper and Savior, O Lord, do not delay. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									The following psalms are selected from the 3rd hour:
 									
@@ -145,7 +145,7 @@
 									The Lord is He who shepherds me; I shall need nothing. In a place of green pasture, there He has made me dwell: by the water of rest, He has tended me. He has restored my soul: He has guided me into the paths of righteousness, for His name's sake. Even if I walk in the midst of the shadow of death, I shall not fear evil things, for You are with me: Your rod and Your staff, these comfort me. You have prepared a table before me in the presence of those who afflict me: You have anointed my head with oil; and Your cup makes me drunk like power. Your mercy shall follow me all the days of my life: and my dwelling shall be in the house of the Lord unto length of days. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 29 
 								</Run>
@@ -160,7 +160,7 @@
 									The Lord heard, and had mercy upon me; the Lord became to me a helper. You have turned my mourning into joy for me: You have rent off my sackcloth, and girded me with gladness; that my glory may sing praise to You, and I shall not be troubled at heart. O Lord, my God, I will confess to You forever. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 42 
 								</Run>
@@ -171,7 +171,7 @@
 									Why are you sad, O my soul? and why do you trouble me? Hope in God; for I will give thanks to Him. The salvation of my face is my God. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									The following psalms are selected from the 6th hour:
 									
@@ -186,7 +186,7 @@
 									My heart, O God, is ready, my heart is ready: I will sing, and chant in my glory. Arise, my glory; arise, psaltery and harp: I will rise early. O Lord, I will confess You among the peoples: I will sing to You among the nations. For Your mercy has been magnified up to the heavens, and Your truth up to the clouds. Be You exalted, O God, above the heavens; and Your glory above all the earth. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 85 
 								</Run>
@@ -201,7 +201,7 @@
 									O God, transgressors have risen up against me, and an assembly of violent men have sought my soul; and have not, at first, set You before them. But You, O Lord God, are compassionate and merciful, long-suffering, and abundant in mercy and true. Look down upon me, and have mercy on me: give strength to Your servant, and save the son of Your handmaid. Establish with me a sign for good; and let those who hate me see and be ashamed; because You, O Lord, have helped me, and comforted me. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 90 
 								</Run>
@@ -214,7 +214,7 @@
 									For he has hoped in Me, and I shall deliver him: I shall protect him, because he has known My name. He shall beseech Me, and I shall hear him: I am with him in affliction; and I shall deliver him, and glorify him. I shall satisfy him with length of days, and show him My salvation. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									The following psalms are selected from the 9th hour:
 									
@@ -231,7 +231,7 @@
 									You who love the Lord, hate evil; the Lord preserves the souls of His saints; He will deliver them from the hands of the sinners. Light has shined for the righteous, and gladness for the upright in their heart. Rejoice in the Lord, you righteous; and praise the remembrance of His holiness. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 109 
 								</Run>
@@ -242,7 +242,7 @@
 									The Lord has sworn and shall not repent: ԙou are the Priest forever, after the order of Melchizedek.ԠThe Lord is at Your right hand; He dashed kings in the day of His wrath. He shall judge among the nations. He shall fill them with dead bodies, He shall crush the heads of many on the earth. He shall drink of the brook in the way; therefore He shall lift up the head. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 114 
 								</Run>
@@ -255,7 +255,7 @@
 									Return to your resting place, O my soul, for the Lord has dealt bountifully with you. He has delivered my soul from death, my eyes from tears, and my feet from falling. I shall please the Lord in the land of the living. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 115 
 								</Run>
@@ -266,7 +266,7 @@
 									Precious in the sight of the Lord is the death of His saints. O Lord, I am Your servant; I am Your servant, and the son of Your handmaid: You have broken my bonds. I will sacrifice to You the sacrifice of praise, and will call upon the name of the Lord. I will pay my vows to the Lord in the presence of all His people, in the courts of the Lord's house, in the midst of Jerusalem. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									The following psalms are selected from Vespers:
 									
@@ -277,7 +277,7 @@
 									I lifted up my eyes to the mountains, from where my help shall come. My help shall come from the Lord, who made the heaven and the earth. He will not let your foot be moved; and your keeper will not slumber. Behold, He who keeps Israel shall not slumber nor sleep. The Lord shall keep you: the Lord shall cast a shelter upon your right hand. The sun shall not burn you by day, neither the moon by night. The Lord shall preserve you from every evil: the Lord shall keep your soul. The Lord shall keep your coming in and your going out, from this time and forever. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALMS 128 
 								</Run>
@@ -286,7 +286,7 @@
 									Many times they have warred against me from my youth, let Israel now say. Many times they have warred against me from my youth, and yet they have not prevailed against me. The sinners scourged me on my back, and prolonged their iniquity. The Lord is righteous; He has broken the necks of sinners. Let all who hate Zion be put to shame and turned back. Let them be as the grass of the house-tops, which withers before it is plucked up, with which the reaper does not fill his hand, nor he who gathers up sheaves, his bosom. Neither do they who pass by say, Ԕhe blessing of the Lord be upon you, we have blessed you in the name of the Lord.ԠALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									The following psalms are selected from Compline:
 									
@@ -297,7 +297,7 @@
 									Out of the depths I have cried to You, O Lord. O Lord, hear my voice: let Your ears be attentive to the voice of my supplication. If You, O Lord, should mark iniquities, O Lord, who shall stand? For through You is forgiveness. For Your name's sake I have waited for You, O Lord. My soul has waited for Your law. My soul has hoped in the Lord, from the morning watch till night. From the morning watch, let Israel hope in the Lord. For with the Lord is mercy, and great is His redemption; and He shall redeem Israel from all his iniquities. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 130 
 								</Run>
@@ -306,7 +306,7 @@
 									O Lord, my heart was not exalted, neither have my eyes been haughtily raised: neither have I walked in great matters, nor in wonders greater than me. If I have not humbled myself, but raised my soul, as a weaned child with his mother, so is the recompense upon my soul. Let Israel hope in the Lord, from now and forever. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 131 
 								</Run>
@@ -321,7 +321,7 @@
 									For the Lord has selected Zion, He has chosen her a dwelling for Himself: Ԕhis is My resting place forever. Here I will dwell; for I have desired it. In blessing I shall bless her hunting. Her poor I shall satisfy with bread. Her priests I shall clothe with salvation; and her saints with rejoicing shall rejoice. There I shall raise a horn to David. I have prepared a lamp for My anointed. His enemies I shall clothe with shame, and My holiness shall flourish upon Him.ԠALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 132 
 								</Run>
@@ -330,7 +330,7 @@
 									Behold! What is so good, or what so pleasant, as for brothers dwelling together? It is as ointment upon the head, that came down upon beard, the beard of Aaron that came down to the fringe of his clothing; as the dew of Aermon, that comes down upon the mountain of Zion: for there the Lord commanded the blessing and the life forever. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 133 
 								</Run>
@@ -339,7 +339,7 @@
 									Behold, bless the Lord, O you the servants of the Lord, who stand in the house of the Lord, in the courts of the house of our God. In the nights lift up your hands unto the Holies, and bless the Lord. The Lord shall bless you out of Zion, He who made heaven and earth. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 136 
 								</Run>
@@ -352,7 +352,7 @@
 									Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Ԕear it down, tear it down, even to its foundations.ԠWretched daughter of Babylon! Blessed is he who will reward you with the reward you have given us. Blessed is he who will seize and bury your infants by the rock. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 140 
 								</Run>
@@ -363,7 +363,7 @@
 									Their mighty ones have been swallowed up near the rock: they shall hear my words, for they are delightful. As a lump of earth, they are broken upon the ground, their bones have been scattered at Hades. For my eyes are to You, O Lord: O Lord, I have hoped in You; do not take away my soul. Keep me from the snare which they have set for me, and from the stumbling blocks of those who work iniquity. Sinners shall fall by their own net: I am alone until iniquity passes by. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									PSALM 145 
 								</Run>
@@ -376,7 +376,7 @@
 									The Lord looses the bound; the Lord sets up the broken down. The Lord gives wisdom to the blind; the Lord loves the righteous. the Lord preserves the strangers; He accepts the orphan and widow: but He will destroy the way of sinners. The Lord shall reign forever, and your God, O Zion, from generation to generation. ALLELUIA.
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 														
 									The following psalms are selected from Midnight:
 								<LineBreak/>

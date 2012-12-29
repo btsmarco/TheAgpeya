@@ -24,14 +24,15 @@
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
 
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                                
 
                             The prayer of the ninth hour of the blessed day, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
 
                             From the Psalms of our father David the prophet and the king, may his blessings be upon us all. Amen.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 95 
                             </Run>
@@ -43,7 +44,7 @@
                             Let the heavens rejoice, and the earth exult; let the sea be moved: and its fullness. The plains shall rejoice, and all things in them: then all the trees of the forest shall exult before the face of the Lord: for He is coming to judge the earth; He will judge the world in justice, and the peoples with His truth. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 96 
                             </Run>
@@ -57,7 +58,7 @@
                             You who love the Lord, hate evil; the Lord preserves the souls of His saints; He will deliver them from the hands of the sinners. Light has shined for the righteous, and gladness for the upright in their heart. Rejoice in the Lord, you righteous; and praise the remembrance of His holiness. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 97 
                             </Run>
@@ -67,7 +68,7 @@
                             Shout to the Lord, all the earth; sing and exult, and sing psalms. Sing to the Lord with a harp, with a harp and a voice of psalm, with directed trumpets, and a sound of a trumpet of horn. Shout joyfully before the Lord King. Let the sea be moved, and its fullness, the world and all who dwell in it. The rivers shall clap their hands together; and the mountains shall exult before the Lord. For He comes to judge the earth: He will judge the world with righteousness, and the nations with uprightness. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 98 
                             </Run>
@@ -77,7 +78,7 @@
                             Moses and Aaron among His priests, and Samuel among those who call upon His name; they called upon the Lord, and He heard them. He spoke to them in a pillar of cloud; for they kept His testimonies and the ordinances which He gave them. O Lord our God, You answered them; O God, You became for them a forgiver and an avenger over all their deeds. Exalt you the Lord our God, and worship at His holy mountain; for the Lord our God is holy. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 99 
                             </Run>
@@ -85,7 +86,7 @@
                             Shout joyfully to the Lord, all the earth. Serve the Lord with gladness; come into His presence with exultation. Know that the Lord Himself is our God; He made us, and not we ourselves; we are His people, and the sheep of His pasture. Enter into His gates with thanksgiving, and His courts with praise; give thanks to Him, praise His name. For the Lord is good, His mercy is forever; and His truth is from generation to generation. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 100 
                             </Run>
@@ -95,7 +96,7 @@
                             My eyes were upon all the faithful of the land, that they might sit with me: he who walked in a blameless way, he ministered to me. The proud doer did not dwell in the midst of my house; the unjust speaker did not prosper before my eyes. In the morning I slew all the sinners of the land, that I might wipe out from the city of the Lord all who work iniquity. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 109 
                             </Run>
@@ -105,7 +106,7 @@
                             The Lord has sworn and shall not repent: “You are the Priest forever, after the order of Melchizedek.” The Lord is at Your right hand; He dashed kings in the day of His wrath. He shall judge among the nations. He shall fill them with dead bodies, He shall crush the heads of many on the earth. He shall drink of the brook in the way; therefore He shall lift up the head. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 110 
                             </Run>
@@ -115,7 +116,7 @@
                             The works of His hands are truth and justice: all His commandments are faithful: established forever and ever, made in truth and uprightness. He sent redemption to His people: He commanded His covenant forever: holy and fearful is His name. The fear of the Lord is the beginning of wisdom, and understanding is good to all who do according to it. His praise endures forever and ever. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 111 
                             </Run>
@@ -125,7 +126,7 @@
                             A good man is he who pities and lends: he shall direct his words with truth. For he shall not be moved forever. The righteous shall be in everlasting remembrance. He shall not be afraid of any evil tidings: his heart is ready trusting the Lord. His heart is established, he shall not move, till he shall look upon his enemies. He has dispersed abroad; he has given to the poor; his righteousness endures forever and ever: his horn shall be exalted with honor. The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 112 
                             </Run>
@@ -135,7 +136,7 @@
                             Who is like the Lord our God? Who dwells in the high places, and looks upon the low things in heaven and on the earth: who lifts up a poor person from the earth, and raises up a needy person from the ash heap; to seat him with the princes, even with the princes of his people: who makes a barren woman in a house, rejoicing as a mother of children. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 114 
                             </Run>
@@ -147,7 +148,7 @@
                             Return to your resting place, O my soul, for the Lord has dealt bountifully with you. He has delivered my soul from death, my eyes from tears, and my feet from falling. I shall please the Lord in the land of the living. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 115 
                             </Run>

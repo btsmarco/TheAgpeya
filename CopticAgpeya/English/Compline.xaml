@@ -24,14 +24,14 @@
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
 
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
 
                             The blessed prayer of retiring, we offer to Christ our King and our God, beseeching Him to forgive us our sins.
 
                             From the Psalms of our father David the prophet and the king, may his blessings be upon us all. Amen.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 129 
                             </Run>
@@ -39,7 +39,7 @@
                             Out of the depths I have cried to You, O Lord. O Lord, hear my voice: let Your ears be attentive to the voice of my supplication. If You, O Lord, should mark iniquities, O Lord, who shall stand? For through You is forgiveness. For Your name's sake I have waited for You, O Lord. My soul has waited for Your law. My soul has hoped in the Lord, from the morning watch till night. From the morning watch, let Israel hope in the Lord. For with the Lord is mercy, and great is His redemption; and He shall redeem Israel from all his iniquities. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 130 
                             </Run>
@@ -47,7 +47,7 @@
                             O Lord, my heart was not exalted, neither have my eyes been haughtily raised: neither have I walked in great matters, nor in wonders greater than me. If I have not humbled myself, but raised my soul, as a weaned child with his mother, so is the recompense upon my soul. Let Israel hope in the Lord, from now and forever. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 131 
                             </Run>
@@ -61,7 +61,7 @@
                             For the Lord has selected Zion, He has chosen her a dwelling for Himself: “This is My resting place forever. Here I will dwell; for I have desired it. In blessing I shall bless her hunting. Her poor I shall satisfy with bread. Her priests I shall clothe with salvation; and her saints with rejoicing shall rejoice. There I shall raise a horn to David. I have prepared a lamp for My anointed. His enemies I shall clothe with shame, and My holiness shall flourish upon Him.” ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 132 
                             </Run>
@@ -69,7 +69,7 @@
                             Behold! What is so good, or what so pleasant, as for brothers dwelling together? It is as ointment upon the head, that came down upon beard, the beard of Aaron that came down to the fringe of his clothing; as the dew of Aermon, that comes down upon the mountain of Zion: for there the Lord commanded the blessing and the life forever. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 133 
                             </Run>
@@ -77,7 +77,7 @@
                             Behold, bless the Lord, O you the servants of the Lord, who stand in the house of the Lord, in the courts of the house of our God. In the nights lift up your hands unto the Holies, and bless the Lord. The Lord shall bless you out of Zion, He who made heaven and earth. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 136 
                             </Run>
@@ -89,7 +89,7 @@
                             Remember, O Lord, the children of Edom in the day of Jerusalem; who said, “Tear it down, tear it down, even to its foundations.” Wretched daughter of Babylon! Blessed is he who will reward you with the reward you have given us. Blessed is he who will seize and bury your infants by the rock. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 137 
                             </Run>
@@ -99,7 +99,7 @@
                             The Lord is high, and He regards the lowly; and He knows the existing things from afar off. If I walk in the midst of affliction, You shall revive me; You have stretched forth Your hands against the wrath of enemies, and Your right hand has saved me. O Lord, You shall reward on my behalf: Your mercy, O Lord, endures forever: do not overlook the works of Your hands. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 140 
                             </Run>
@@ -109,7 +109,7 @@
                             Their mighty ones have been swallowed up near the rock: they shall hear my words, for they are delightful. As a lump of earth, they are broken upon the ground, their bones have been scattered at Hades. For my eyes are to You, O Lord: O Lord, I have hoped in You; do not take away my soul. Keep me from the snare which they have set for me, and from the stumbling blocks of those who work iniquity. Sinners shall fall by their own net: I am alone until iniquity passes by. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 141 
                             </Run>
@@ -117,7 +117,7 @@
                             With my voice to the Lord I cried; with my voice to the Lord I made supplication. I will pour out before Him my supplication. My affliction I will pour out before Him, when my spirit was fainting within me, and You knew my paths. In the way in which I was walking, they hid a snare for me. I looked on my right hand, and beheld, for there was no one who noticed me. Refuge failed me, and there was no one who cared for my soul. I cried unto You, O Lord, and said, “You are my hope, my portion in the land of the living. Attend to my supplication, for I am brought very low; deliver me from those who persecute me, for they are stronger than me. Bring my soul out of prison, that I may confess Your name, O Lord. The righteous wait for me until You reward me.” ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 145 
                             </Run>
@@ -129,7 +129,7 @@
                             The Lord looses the bound; the Lord sets up the broken down. The Lord gives wisdom to the blind; the Lord loves the righteous. the Lord preserves the strangers; He accepts the orphan and widow: but He will destroy the way of sinners. The Lord shall reign forever, and your God, O Zion, from generation to generation. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 146 
                             </Run>
@@ -139,7 +139,7 @@
                             Begin the song to the Lord with thanksgiving; sing praises to our God on the harp: He who covers the heaven with clouds; who prepares rain for the earth; who causes grass to spring up on the mountains, and green herb for the service of men; who gives food to the cattle, and to the young ravens that call upon Him. He will not take pleasure in the strength of a horse, nor will He be well-pleased with the legs of man. The Lord will take pleasure in those who fear Him, and in those who hope in His mercy. ALLELUIA.
                             <LineBreak/>
                             </TextBlock>
-                            <TextBlock Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">
+                            <TextBlock  Width="Auto" Height="Auto"  TextWrapping="Wrap">
                             <Run Foreground="{StaticResource PhoneAccentBrush}">
                             PSALM 147 
                             </Run>

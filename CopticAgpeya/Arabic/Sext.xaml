@@ -23,7 +23,7 @@
                 <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									بدء الصلاة
 								</Run>
@@ -33,7 +33,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(1) المزمور التاسع عشر
 								</Run>
@@ -45,7 +45,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(2) المزمور الثاني والعشرون
 								</Run>
@@ -57,7 +57,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(3) المزمور الثالث والعشرون
 								</Run>
@@ -69,7 +69,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(4) المزمور الخامس والعشرون
 								</Run>
@@ -79,7 +79,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(5) المزمور الثامن والعشرون
 								</Run>
@@ -91,7 +91,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(6) المزمور التاسع والعشرون
 								</Run>
@@ -107,7 +107,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(7) المزمور الثالث والثلاثون
 								</Run>
@@ -121,7 +121,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(8) المزمور الأربعون
 								</Run>
@@ -133,7 +133,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(9) المزمور الثاني والأربعون
 								</Run>
@@ -143,7 +143,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(10) المزمور الرابع والأربعون
 								</Run>
@@ -159,7 +159,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(11) المزمور الخامس والأربعون
 								</Run>
@@ -171,7 +171,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(12) المزمور السادس والأربعون
 								</Run>
@@ -194,7 +194,7 @@
                 <Grid x:Name="ContentPane1" Grid.Row="1" Margin="12,0,0,0">
                     <ScrollViewer>
                         <StackPanel Margin="12,0,0,0">
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(إنجيل يوحنا(14: 26ـ15: 3
 								</Run>
@@ -208,7 +208,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									القطع
 								</Run>
@@ -218,7 +218,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(ذوكصابترى..).
 								</Run>
@@ -228,7 +228,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(كى نين.. ).
 								</Run>
@@ -238,7 +238,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(كى نين.. ) .
 								</Run>
@@ -248,7 +248,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(ذوكصابترى … ).
 								</Run>
@@ -258,7 +258,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									(كى نين.. )
 								</Run>
@@ -270,7 +270,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									كيريى ليسون 41 مرة 
 								</Run>
@@ -280,7 +280,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									قدوس قدوس قدوس
 								</Run>
@@ -294,7 +294,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									التحليل
 								</Run>
@@ -304,7 +304,7 @@
 									
 								<LineBreak/>
                             </TextBlock>
-                            <TextBlock TextAlignment="Right" Foreground="White" Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
+                            <TextBlock TextAlignment="Right"  Width="Auto" Height="Auto"  TextWrapping="Wrap">                    
 								<Run Foreground="{StaticResource PhoneAccentBrush}">						
 									طلبة تصلى آخر كل ساعة
 								</Run>
