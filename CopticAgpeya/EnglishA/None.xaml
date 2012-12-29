@@ -31,47 +31,47 @@
 
                             <StackPanel Margin="40,0,0,0">
                                 <TextBlock Foreground="White" Width="213" Height="75"  TextWrapping="Wrap" FontSize="42" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" >
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 95"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 95" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="213" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 96"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 96" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="213" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 97"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 97" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" HorizontalAlignment="Left" FontSize="42">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 98"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 98" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left" VerticalAlignment="Center">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 99"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 99" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 100"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 100" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 109"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 109" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 110"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 110" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 112"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 112" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 114"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 114" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
                                 <TextBlock Foreground="White" Width="Auto" Height="75"  TextWrapping="Wrap" FontSize="42" HorizontalAlignment="Left">
-                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 115"/>
+                        		<Run Foreground="{StaticResource PhoneAccentBrush}" Text="PSALM 115" FontFamily="Segoe WP Light"/>
 
                                 </TextBlock>
 
