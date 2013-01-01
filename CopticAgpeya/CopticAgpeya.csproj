@@ -304,15 +304,15 @@
     <None Include="Properties\WMAppManifest.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="AgpeyaHyms\2 terence\022-Psalm22.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\029-Psalm29.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\046-Psalm46.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\holyholyholy.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\kerie_eleyson.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\tenoo-oasht.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\terce_gospel.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\terce_litanies.mp3" />
-    <Content Include="AgpeyaHyms\2 terence\welookfortheresurrrection.mp3" />
+    <Content Include="AgpeyaHyms\terence\022-Psalm22.mp3" />
+    <Content Include="AgpeyaHyms\terence\029-Psalm29.mp3" />
+    <Content Include="AgpeyaHyms\terence\046-Psalm46.mp3" />
+    <Content Include="AgpeyaHyms\terence\holyholyholy.mp3" />
+    <Content Include="AgpeyaHyms\terence\kerie_eleyson.mp3" />
+    <Content Include="AgpeyaHyms\terence\tenoo-oasht.mp3" />
+    <Content Include="AgpeyaHyms\terence\terce_gospel.mp3" />
+    <Content Include="AgpeyaHyms\terence\terce_litanies.mp3" />
+    <Content Include="AgpeyaHyms\terence\welookfortheresurrrection.mp3" />
     <Content Include="AgpeyaHyms\Sext\083-Psalm83.mp3" />
     <Content Include="AgpeyaHyms\Sext\086-Psalm86.mp3" />
     <Content Include="AgpeyaHyms\Sext\092-Psalm92.mp3" />
